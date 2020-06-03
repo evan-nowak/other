@@ -1,0 +1,19 @@
+service_id,service_name,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,end_date
+c_6376_b_22163_d_31,Connector Summer Break (Weekday),1,1,1,1,1,0,0,20200511,20200816
+c_6376_b_22163_d_16,Connector Summer Break (Friday only),0,0,0,0,1,0,0,20200511,20200816
+c_6375_b_16287_d_32,Connector In Session (Saturday only),0,0,0,0,0,1,0,20190819,20200510
+c_6375_b_16287_d_31,Connector In Session (Weekday),1,1,1,1,1,0,0,20190819,20200510
+c_6374_b_22202_d_56,Purdue In Session (ThFSa),0,0,0,1,1,1,0,20190819,20191231
+c_6374_b_22202_d_32,Purdue In Session (Saturday only),0,0,0,0,0,1,0,20190819,20191231
+c_6374_b_22202_d_31,Purdue In Session (Weekday),1,1,1,1,1,0,0,20190819,20191231
+c_6374_b_22202_d_24,Purdue In Session (ThF),0,0,0,1,1,0,0,20190819,20191231
+c_6369_b_22166_d_31,Purdue Out of Session (Weekday),1,1,1,1,1,0,0,20200314,20200322
+c_6369_b_22165_d_31,Purdue Out of Session (Weekday),1,1,1,1,1,0,0,20191214,20200112
+c_6369_b_22164_d_31,Purdue Out of Session (Weekday),1,1,1,1,1,0,0,20191127,20191201
+c_6369_b_22161_d_31,Purdue Out of Session (Weekday),1,1,1,1,1,0,0,20191005,20191008
+c_6363_b_20999_d_31,Campus Routes (Weekday),1,1,1,1,1,0,0,20190819,20191006
+c_6363_b_20999_d_127,Campus Routes (All days of week),1,1,1,1,1,1,1,20190819,20191006
+c_6362_b_6886_d_64,Year Round (Sunday only),0,0,0,0,0,0,1,20190101,20191231
+c_6362_b_6886_d_32,Year Round (Saturday only),0,0,0,0,0,1,0,20190101,20191231
+c_6362_b_6886_d_31,Year Round (Weekday),1,1,1,1,1,0,0,20190101,20191231
+c_17988_b_22450_d_31,Campus Routes (LeaperX) (Weekday),1,1,1,1,1,0,0,20191007,20191231

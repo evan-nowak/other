@@ -1,0 +1,53 @@
+{% from macros import embed %}
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>Waze Live Dashboard</title>
+<meta charset="UTF-8" />
+{{ bokeh_css }}
+{{ bokeh_js }}
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato|Montserrat|Raleway|Oswald|Open+Sans"/>
+<style type="text/css"> {% include 'styles.css' %} </style>
+</head>
+<body>
+
+<!-- HEADER -->
+
+<div class="bar header">
+  <!-- <div class="bar-item bar-left legend"><a>Legend</a><div class="hidden"><img src="waze_live_legend.svg"></div></div> -->
+  <div class="bar-item bar-left"><!-- blank for spacing --></div>
+  <div class="bar-item bar-center">Waze Live Dashboard - Speeds</div>
+  <div class="bar-item bar-right"><!-- blank for spacing --></div>
+</div>
+
+<!-- CONTENT -->
+
+<div id="map">
+  {{ embed(roots.map) | indent(2) }}
+</div>
+
+<div id="top">
+  {{ embed(roots.top) | indent(2) }}
+</div>
+
+<div class="right" id="right">
+  {{ embed(roots.right) | indent(2) }}
+</div>
+
+<!-- FOOTER -->
+
+<div class="bar footer">
+  <div class="bar-item bar-left">Developed for the <a class="PANYNJ" href="http://www.panynj.gov/port-authority-ny-nj.html" target="_blank">Port Authority of NY & NJ</a></div>
+  <div class="tooltip">
+    <div class="bar-item bar-center">Sources</div>
+    <span class="tooltiptext">Waze Travel Times API</span>
+  </div>
+  <div class="bar-item bar-right">Powered by<a class="SSE" href="http://samschwartz.com/" target="_blank">Sam Schwartz</a></div>
+</div>
+
+{{ plot_script | indent(8) }}
+
+</body>
+</html>

@@ -1,0 +1,2 @@
+agency_id,agency_url,agency_lang,agency_name,agency_phone,agency_timezone,agency_fare_url
+816,http://www.gocitybus.com/,en,CityBus,1 (765) 742-7433,America/Indiana/Indianapolis,https://www.gocitybus.com/how-to-ride/fares

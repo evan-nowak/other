@@ -1,0 +1,831 @@
+stop_id,stop_code,platform_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,location_type,parent_station,stop_timezone,position,direction,wheelchair_boarding
+2439192,BUS466W,,22nd St & JR Hiatt Dr (NW Corner): BUS466W,,40.397776741778,-86.8717959061,,,0,,America/Indiana/Indianapolis,,,0
+2439193,BUS304,,Blackbird Farms 2 on McCormick Rd: BUS304,,40.4455293000443,-86.9442846099438,,,0,,America/Indiana/Indianapolis,,,0
+2439194,BUS173,,SR 26 & Scarlett Dr (SW Corner): BUS173,,40.4341987,-86.95557189,,,0,,America/Indiana/Indianapolis,,,0
+2439195,BUS176,,Klondike Rd & SR 26: BUS176,,40.437337159575,-86.962072751944,,,0,,America/Indiana/Indianapolis,,,0
+2439196,BUS902,,Blueberry Ln & Klondike Rd (NW Corner): BUS902,,40.438542396771,-86.961966502149,,,0,,America/Indiana/Indianapolis,,,0
+2439197,BUS175,,Klondike Rd & E Pine Ave: BUS175,,40.439964641528,-86.961962706328,,,0,,America/Indiana/Indianapolis,,,0
+2439198,BUS572,,Georgetown Rd & Klondike Rd (NW Corner): BUS572,,40.441768914181,-86.961997270042,,,0,,America/Indiana/Indianapolis,,,0
+2439199,BUS903,,Rosewood Dr & Klondike Rd (NW Corner): BUS903,,40.443983205646,-86.961968376813,,,0,,America/Indiana/Indianapolis,,,0
+2439201,BUS755,,Airport Rd & Halsey Dr (SW Corner) BUS755,,40.419891726736,-86.930588255302,,,0,,America/Indiana/Indianapolis,,,0
+2439202,BUS289,,Jischke Dr & 3rd St (SE Corner): BUS289,,40.427204618678,-86.921991093655,,,0,,America/Indiana/Indianapolis,,,0
+2439203,BUS584NE,,1st St & Jischke Dr (NE Corner): BUS584NE,,40.42538496,-86.92185652,,,0,,America/Indiana/Indianapolis,,,0
+2439204,BUS332S,,3rd St & Russell St (SW Corner): BUS332S,,40.427226864796,-86.919575354768,,,0,,America/Indiana/Indianapolis,,,0
+2439205,BUS751,,Airport Rd & Nimitz Dr (SE Corner): BUS751,,40.422238399328,-86.930408144841,,,0,,America/Indiana/Indianapolis,,,0
+2439206,BUS754,,Airport Rd & Halsey Dr (SE Corner): BUS754,,40.419794586146,-86.93038219183,,,0,,America/Indiana/Indianapolis,,,0
+2439207,BUS146,,Aviation Technology Bldg: BUS146,,40.416636,-86.929827,,,0,,America/Indiana/Indianapolis,,,0
+2439208,BUS415,,Purdue Airport Main Terminal: BUS415,,40.416518,-86.930869,,,0,,America/Indiana/Indianapolis,,,0
+2439209,BUS134,,Howarth Center: BUS134,,40.42301523,-86.87719908,,,0,,America/Indiana/Indianapolis,,,0
+2439210,BUS887,,Chilton Park on Chilton Dr (S Roundabout):BUS887,,40.35854431,-86.85370561,,,0,,America/Indiana/Indianapolis,,,0
+2439211,BUS889,,Concord Rd & Marcasite Dr (NW Corner): BUS889,,40.36007719,-86.85717638,,,0,,America/Indiana/Indianapolis,,,0
+2439212,BUS425S,,Wabash Landing on Brown St (at Shelter): BUS425S,,40.4219048,-86.9008119,,,0,,America/Indiana/Indianapolis,,,0
+2439213,BUS352,,Harrison St & Martin Jischke Dr (NE Corner):BUS352,,40.42049,-86.92137,,,0,,America/Indiana/Indianapolis,,,0
+2439214,BUS269,,Harrison St & University St (NE Corner): BUS269,,40.42049,-86.915821,,,0,,America/Indiana/Indianapolis,,,0
+2439215,TEMP17,,Harrison St & Sheetz St (NE Corner): TEMP17,,40.420431,-86.912058,,,0,,America/Indiana/Indianapolis,,,0
+2439216,BUS509SE,,Tower Dr & Jischke Dr (SE Corner): BUS509SE,,40.432890018084,-86.921423161757,,,0,,America/Indiana/Indianapolis,,,0
+2439217,BUS346,,State & McCutcheon,,40.4241887,-86.9284856,,,0,,America/Indiana/Indianapolis,,,0
+2439218,BUS543NE,,Gates Rd & Nimitz Dr (NE Corner): BUS543NE,,40.420932705655,-86.923060962053,,,0,,America/Indiana/Indianapolis,,,0
+2439219,BUS900,,Discovery Learning Center: BUS900,,40.42083594,-86.92191016,,,0,,America/Indiana/Indianapolis,,,0
+2439220,BUS899,,Morgan & Jischke Dr (NW Corner): BUS899,,40.42333173,-86.92187395,,,0,,America/Indiana/Indianapolis,,,0
+2439221,BUS891,,Paramount Dr and Pacific Dr (SE Corner): BUS891,,40.470824,-86.945503,,,0,,America/Indiana/Indianapolis,,,0
+2439222,BUS294,,Grant Street Station Apts (at Shelter): BUS294,,40.419584,-86.910194,,,0,,America/Indiana/Indianapolis,,,0
+2439223,BUS290,,Williams St & Grant St (NE Corner): BUS290,,40.41856545,-86.91017684,,,0,,America/Indiana/Indianapolis,,,0
+2439224,BUS522,,Williams St & Salisbury St (NW Corner): BUS522,,40.4184676394363,-86.9077360973285,,,0,,America/Indiana/Indianapolis,,,0
+2439225,BUS186,,River Rd & Williams St (NW Corner): BUS186,,40.41909,-86.90624,,,0,,America/Indiana/Indianapolis,,,0
+2439226,BUS489,,Wood St & River Rd (SW Corner): BUS489,,40.420205268513,-86.905650963856,,,0,,America/Indiana/Indianapolis,,,0
+2439227,BUS371,,Main St & 4th St (NE Corner): BUS371,,40.41919577,-86.89295706,,,0,,America/Indiana/Indianapolis,,,0
+2439228,BUS364,,Main St & 5th St (NE Corner): BUS364,,40.41920784,-86.89168301,,,0,,America/Indiana/Indianapolis,,,0
+2439229,BUS350,,Main St & 6th St (NE Corner): BUS350,,40.41919443,-86.89048808,,,0,,America/Indiana/Indianapolis,,,0
+2439230,BUS349,,Main St & 8th St (NE Corner): BUS349,,40.41921052,-86.88761544,,,0,,America/Indiana/Indianapolis,,,0
+2439231,BUS266,,9th St & Ferry St (NW Corner): BUS266,,40.42012247,-86.88691672,,,0,,America/Indiana/Indianapolis,,,0
+2439232,BUS509SW,,Jischke Dr & Tower Dr (SW Corner): BUS509SW,,40.432917676141,-86.921671580717,,,0,,America/Indiana/Indianapolis,,,0
+2439233,BUS472S,,Hilltop Dr & Tower Dr (SE Corner): BUS472S,,40.433161236958,-86.923253841609,,,0,,America/Indiana/Indianapolis,,,0
+2439234,BUS562S,,Theta Chi on Tower Dr (South): BUS562S,,40.433118511165,-86.925888080335,,,0,,America/Indiana/Indianapolis,,,0
+2439235,BUS554W,,Alpha Chi on David Ross Rd (West): BUS554W,,40.434360399781,-86.925852410451,,,0,,America/Indiana/Indianapolis,,,0
+2439236,BUS546N,,14th St & Hartford St (NW Corner): BUS546N,,40.42791563,-86.88228454,,,0,,America/Indiana/Indianapolis,,,0
+2439237,BUS786,,St Anthony Health Care: BUS786,,40.42911323,-86.88233014,,,0,,America/Indiana/Indianapolis,,,0
+2439238,BUS787,,14th St & Howell St (NW Corner): BUS787,,40.43040204,-86.88241061,,,0,,America/Indiana/Indianapolis,,,0
+2439239,BUS508SW,,14th St & Greenbush St (South of): BUS508SW,,40.431770848363,-86.882389958235,,,0,,America/Indiana/Indianapolis,,,0
+2439240,BUS348,,Greenbush St & 15th St (NW Corner): BUS348,,40.432238481211,-86.881500946027,,,0,,America/Indiana/Indianapolis,,,0
+2439241,BUS862,,Ball St & 15th St (NW Corner): BUS862,,40.433375360841,-86.881519730484,,,0,,America/Indiana/Indianapolis,,,0
+2439242,BUS861,,Hart St & 15th St (NW Corner): BUS861,,40.43628044654,-86.881551481956,,,0,,America/Indiana/Indianapolis,,,0
+2439243,BUS860,,Barbee St & Schuyler Ave (at Shelter): BUS860,,40.438676529919,-86.881319336861,,,0,,America/Indiana/Indianapolis,,,0
+2439244,BUS859,,Star Lanes on Schuyler Ave: BUS859,,40.439835547127,-86.879370497195,,,0,,America/Indiana/Indianapolis,,,0
+2439245,BUS858,,Schuyler Ave & 18th St (NE Corner): BUS858,,40.440697044005,-86.877299154273,,,0,,America/Indiana/Indianapolis,,,0
+2439246,BUS227,,Schuyler Ave & 20th St (NE Corner): BUS227,,40.441895507944,-86.874451167531,,,0,,America/Indiana/Indianapolis,,,0
+2439247,BUS863,,21st St & Schuyler Ave (NE Corner): BUS863,,40.44248807,-86.8726648,,,0,,America/Indiana/Indianapolis,,,0
+2439248,BUS246,,24th St & Schuyler Ave (South of): BUS246,,40.44208574,-86.86962988,,,0,,America/Indiana/Indianapolis,,,0
+2439249,BUS854,,Albany St & 24th St (SE Corner): BUS854,,40.43978575,-86.86964195,,,0,,America/Indiana/Indianapolis,,,0
+2439250,BUS353,,24th St & Underwood St (North of): BUS353,,40.43780896,-86.86962988,,,0,,America/Indiana/Indianapolis,,,0
+2439251,BUS937,,22nd St & Underwood St (SW Corner): BUS937,,40.43772715,-86.87138136,,,0,,America/Indiana/Indianapolis,,,0
+2439252,BUS274,,Underwood St & 20th St (SE Corner): BUS274,,40.437674145628,-86.874463468963,,,0,,America/Indiana/Indianapolis,,,0
+2439253,BUS852,,Perrine St & 20th St (SE Corner): BUS852,,40.435696508364,-86.874444898649,,,0,,America/Indiana/Indianapolis,,,0
+2439254,BUS851,,Meharry St & 20th St (SE Corner): BUS851,,40.433772346208,-86.874417741105,,,0,,America/Indiana/Indianapolis,,,0
+2439255,BUS850,,Wabash Center on 20th St (at Shelter): BUS850,,40.432693,-86.874378,,,0,,America/Indiana/Indianapolis,,,0
+2439256,BUS452,,Greenbush St & 17 St  (SE Corner): BUS452,,40.43199661,-86.87891971,,,0,,America/Indiana/Indianapolis,,,0
+2439257,BUS849,,17th St & Howell St (SE Corner): BUS849,,40.430082347811,-86.878887546309,,,0,,America/Indiana/Indianapolis,,,0
+2439258,BUS451,,Riggs Community Health Clinic (@Shelter): BUS451,,40.428465068075,-86.878846512463,,,0,,America/Indiana/Indianapolis,,,0
+2439259,BUS488,,17th St & Tippecanoe St (SW Corner): BUS488,,40.426423,-86.879189,,,0,,America/Indiana/Indianapolis,,,0
+2439260,BUS847,,Tippecanoe & 14th St (East of): BUS847,,40.426416185267,-86.881327179484,,,0,,America/Indiana/Indianapolis,,,0
+2439261,BUS546W,,Hartford St & 14th St (at Shelter): BUS546W,,40.427661199584,-86.882370485296,,,0,,America/Indiana/Indianapolis,,,0
+2439262,BUS789SW,,Hartford St & 12th St (SW Corner): BUS789SW,,40.42766177519,-86.884330428528,,,0,,America/Indiana/Indianapolis,,,0
+2439263,BUS417SW,,Airport Rd & Nimitz Dr (SW Corner): BUS417SW,,40.422239091743,-86.930610349882,,,0,,America/Indiana/Indianapolis,,,0
+2439264,BUS491W,,McCutcheon Hall on McCutcheon: BUS491W,,40.425539970155,-86.929038408766,,,0,,America/Indiana/Indianapolis,,,0
+2439265,BUS107,,Jischke Dr & 3rd St (NE Corner): BUS107,,40.427401755043,-86.921749592419,,,0,,America/Indiana/Indianapolis,,,0
+2439266,BUS064,,University Hall: BUS064,,40.425448,-86.91496324,,,0,,America/Indiana/Indianapolis,,,0
+2439267,BUS470,,Hillenbrand Hall on 3rd St (South): BUS470,,40.42732297372,-86.926362577805,,,0,,America/Indiana/Indianapolis,,,0
+2439269,BUS417NE,,Airport Rd & Nimitz Dr (NE Corner): BUS417NE,,40.422397759076,-86.930331287471,,,0,,America/Indiana/Indianapolis,,,0
+2439270,BUS483N,,Marshall Dr & Nimitz Dr (NE Corner): BUS483N,,40.421854934578,-86.927281820018,,,0,,America/Indiana/Indianapolis,,,0
+2439271,BUS272N,,Halsey Dr & Nimitz Dr (NE Corner): BUS272N,,40.42126375,-86.92638945,,,0,,America/Indiana/Indianapolis,,,0
+2439272,BUS319N,,Arnold Dr & Nimitz Dr (NE Corner): BUS319N,,40.420925791782,-86.924496519485,,,0,,America/Indiana/Indianapolis,,,0
+2439273,BUS217,,Purdue Village Bldg 142 (at Shelter): BUS217,,40.419907777913,-86.929433874802,,,0,,America/Indiana/Indianapolis,,,0
+2439274,BUS501,,McCormick Rd & Third St : BUS501,,40.4274998761408,-86.9307536451588,,,0,,America/Indiana/Indianapolis,,,0
+2439275,BUS251W,,Stadium Ave & McCormick Rd (NW Corner): BUS251W,,40.43095189,-86.93262156,,,0,,America/Indiana/Indianapolis,,,0
+2439276,BUS906W,,Schwartz Tennis Cntr on McCormick (West): BUS906W,,40.43575304,-86.93612587,,,0,,America/Indiana/Indianapolis,,,0
+2439277,BUS394,,SW Blackbird Farms Apt Buildings (W): BUS394,,40.44279367412,-86.9424981122,,,0,,America/Indiana/Indianapolis,,,0
+2439278,BUS320,,Grant St & Wood St (SE Corner): BUS320,,40.42197588,-86.91024121,,,0,,America/Indiana/Indianapolis,,,0
+2439279,BUS598,,Harrison St & Grant St (SW Corner): BUS598,,40.420234896124,-86.910431610078,,,0,,America/Indiana/Indianapolis,,,0
+2439280,BUS324,,Lynn Hall on Harrison St: BUS324,,40.42031022,-86.91504773,,,0,,America/Indiana/Indianapolis,,,0
+2439281,BUS440,,Harrison St and S Russell St (SW Corner): BUS440,,40.420267,-86.919811,,,0,,America/Indiana/Indianapolis,,,0
+2439282,BUS543SE,,Gates Rd & Nimitz Dr (SE Corner): BUS543SE,,40.420718972697,-86.92317347093,,,0,,America/Indiana/Indianapolis,,,0
+2439283,BUS249,,Discovery Parking Lot (at Shelter): BUS249,,40.419450688256,-86.924044019092,,,0,,America/Indiana/Indianapolis,,,0
+2439284,BUS402,,Littleton St & Wiggins St: BUS402,,40.42626623049,-86.903690604136,,,0,,America/Indiana/Indianapolis,,,0
+2439285,BUS530N,,Stadium Ave & Garfield St: BUS530N,,40.4314346742221,-86.9133310189512,,,0,,America/Indiana/Indianapolis,,,1
+2439286,BUS634,,Stadium Ave & Grant St (NE Corner): BUS634,,40.43095725,-86.91018757,,,0,,America/Indiana/Indianapolis,,,0
+2439287,BUS647,,Stadium Ave & Vine St (NE Corner): BUS647,,40.430891004875,-86.908002047167,,,0,,America/Indiana/Indianapolis,,,0
+2439288,BUS291NW,,Salisbury St & Stadium Ave (NW Corner): BUS291NW,,40.430920937029,-86.905772196269,,,0,,America/Indiana/Indianapolis,,,0
+2439289,BUS636NW,,Salisbury St & Dehart St (NW Corner): BUS636NW,,40.432758341539,-86.905837163302,,,0,,America/Indiana/Indianapolis,,,0
+2439290,BUS333NW,,Salisbury St & Meridian St (NW Corner): BUS333NW,,40.435307764004,-86.905925333004,,,0,,America/Indiana/Indianapolis,,,0
+2439291,BUS224,,Salisbury St & Leslie Ave (NW Corner): BUS224,,40.436830302639,-86.906183081123,,,0,,America/Indiana/Indianapolis,,,0
+2439292,BUS637NW,,Salisbury St & Rockland Dr (NW Corner): BUS637NW,,40.438963945958,-86.907732887347,,,0,,America/Indiana/Indianapolis,,,0
+2439293,BUS582,,Salisbury St & Grant St (South of): BUS582,,40.441481649113,-86.910466856906,,,0,,America/Indiana/Indianapolis,,,0
+2439294,BUS924,,Salisbury St & Riley Ln (South of): BUS924,,40.442998409097,-86.912738889528,,,0,,America/Indiana/Indianapolis,,,0
+2439295,BUS365NW,,Salisbury St & Lindberg Rd (NW Corner): BUS365NW,,40.445924596848,-86.914344202234,,,0,,America/Indiana/Indianapolis,,,0
+2439296,BUS633NW,,Salisbury St & Sycamore Ln (NW Corner): BUS633NW,,40.448284251844,-86.915880250168,,,0,,America/Indiana/Indianapolis,,,0
+2439297,BUS293,,Salisbury St & Navajo St (at Shelter): BUS293,,40.45122269,-86.91585507,,,0,,America/Indiana/Indianapolis,,,0
+2439298,BUS149,,Salisbury St & Kent Ave (at Shelter): BUS149,,40.45542168,-86.91577729,,,0,,America/Indiana/Indianapolis,,,0
+2439299,BUS130,,Westminster Village S & Salisbury (NW): BUS130,,40.45704576,-86.91580277,,,0,,America/Indiana/Indianapolis,,,0
+2439300,BUS131W,,N Salisbury St & Westminster Village N: BUS131W,,40.458561514635,-86.915745900003,,,0,,America/Indiana/Indianapolis,,,0
+2439301,BUS138,,Cumberland Ave & Salisbury St(SW Corner): BUS138,,40.46038511,-86.91580411,,,0,,America/Indiana/Indianapolis,,,0
+2439302,BUS133,,Cumberland Pointe on Cumberland Ave(South): BUS133,,40.46039584,-86.91892084,,,0,,America/Indiana/Indianapolis,,,0
+2439303,BUS136,,Cumberland Ave & Manchester St (SW Corner): BUS136,,40.46057,-86.92061,,,0,,America/Indiana/Indianapolis,,,0
+2439304,BUS964,,Cumberland Ave & Yeager Rd (SW Corner): BUS964,,40.46062,-86.92491,,,0,,America/Indiana/Indianapolis,,,0
+2439305,BUS455S,,Salem Courthouse on Cumberland (East of): BUS455S,,40.46052,-86.9274,,,0,,America/Indiana/Indianapolis,,,0
+2439306,BUS511SW,,Cumberland Ave & Kent Ave (South West of):BUS511SW,,40.46047631,-86.93070915,,,0,,America/Indiana/Indianapolis,,,0
+2439307,BUS922,,Christina & Co Cumberland Ave (SE Corner): BUS922,,40.45987013,-86.93400424,,,0,,America/Indiana/Indianapolis,,,0
+2439308,BUS165,,3rd St & Alabama St (SE Corner): BUS165,,40.416318039119,-86.894150918965,,,0,,America/Indiana/Indianapolis,,,0
+2439310,BUS991,,South Tipp Park: BUS991,,40.413110240976,-86.894113871758,,,0,,America/Indiana/Indianapolis,,,0
+2439311,BUS310,,Washington Ave & Kossuth St (SE Corner): BUS310,,40.40985363,-86.89457175,,,0,,America/Indiana/Indianapolis,,,0
+2439313,BUS657,,Holloway Dr & Washington St (SE Corner): BUS657,,40.40692466,-86.89756643,,,0,,America/Indiana/Indianapolis,,,0
+2439314,BUS424,,Holloway Dr & Owen St (North of): BUS424,,40.40531668,-86.897549,,,0,,America/Indiana/Indianapolis,,,0
+2439316,BUS979,,Owen St & 4th St (West of): BUS979,,40.40519061,-86.89341705,,,0,,America/Indiana/Indianapolis,,,0
+2439318,BUS264E,,4th St & Montefiore St (SE Corner): BUS264E,,40.401953005854,-86.892955944137,,,0,,America/Indiana/Indianapolis,,,0
+2439319,BUS148,,4th St & Thise Ct (SE Corner): BUS148,,40.398887617431,-86.893980647666,,,0,,America/Indiana/Indianapolis,,,0
+2439320,BUS910,,Valley Plaza on 4th St (South Driveway): BUS910,,40.396455236406,-86.895226466474,,,0,,America/Indiana/Indianapolis,,,0
+2439322,BUS653SW,,Old US 231S & Windy Hill Dr (South Side): BUS653SW,,40.39422715971,-86.900293803561,,,0,,America/Indiana/Indianapolis,,,0
+2439323,BUS258,,Old US 231 S & Elston Rd (North of): BUS258,,40.392726101779,-86.902611921638,,,0,,America/Indiana/Indianapolis,,,0
+2439324,BUS976,,Elston Rd & Breckenridge St (SW of): BUS976,,40.392641,-86.905471,,,0,,America/Indiana/Indianapolis,,,0
+2439325,BUS975,,Elston Rd &  S Beck Ln (SW Corner): BUS 975,,40.39298461799,-86.909915079025,,,0,,America/Indiana/Indianapolis,,,0
+2439326,BUS974,,Old Romney Rd & Elston Rd (SE Corner): BUS974,,40.393217749933,-86.913519203545,,,0,,America/Indiana/Indianapolis,,,0
+2439327,BUS208,,Old Romney Rd & SR 25 (SE Corner): BUS208,,40.38756045,-86.91212144,,,0,,America/Indiana/Indianapolis,,,0
+2439328,BUS222,,Twyckenham Blvd & Old Romney Rd (NE Corner):BUS222,,40.38487,-86.91073,,,0,,America/Indiana/Indianapolis,,,0
+2439329,BUS239,,Twyckenham Blvd & CR 10W (North): BUS239,,40.38476022,-86.90657329,,,0,,America/Indiana/Indianapolis,,,0
+2439330,BUS343,,McDonald's on Old 231: BUS343,,40.38745316,-86.90478828,,,0,,America/Indiana/Indianapolis,,,0
+2439331,BUS336,,Pay Less on Beck Ln: BUS336,,40.38809957,-86.90182042,,,0,,America/Indiana/Indianapolis,,,0
+2439332,BUS700,,Beck Ln & Limestone Ln (NE Corner): BUS700,,40.38811567,-86.8969683,,,0,,America/Indiana/Indianapolis,,,0
+2439333,BUS702,,Poland Hill Rd & Matterhorn Pl (SE Corner): BUS702,,40.38476219412,-86.895074715275,,,0,,America/Indiana/Indianapolis,,,0
+2439335,BUS704N,,Twyckenham Blvd & Rampart St (NE Corner): BUS704N,,40.3836621601888,-86.8937359234398,,,0,,America/Indiana/Indianapolis,,,0
+2439337,BUS340N,,Twyckenham Blvd & 9th St (Northwest of): BUS340N,,40.382035021304,-86.886537021028,,,0,,America/Indiana/Indianapolis,,,0
+2439338,BUS338,,Twyckenham Blvd & 18th St (West of): BUS338,,40.381813954199,-86.876667549761,,,0,,America/Indiana/Indianapolis,,,0
+2439339,BUS990,,18th St at RRX (at Trailhead): BUS990,,40.3781304292629,-86.8759607384259,,,0,,America/Indiana/Indianapolis,,,0
+2439341,BUS884,,18th St & Summertime Tr (SE Corner): BUS884,,40.374284133296,-86.875867645375,,,0,,America/Indiana/Indianapolis,,,0
+2439342,BUS883,,18th St & Bridgewater Cir (SE Corner): BUS883,,40.370643293905,-86.875918617124,,,0,,America/Indiana/Indianapolis,,,0
+2439343,BUS917,,18th St & Troxel Ct: BUS917,,40.367983824047,-86.8758137640114,,,0,,America/Indiana/Indianapolis,,,0
+2439344,BUS875NE,,Veterans Mem Pkwy S & Regal Valley Dr: BUS875NE,,40.367240183066,-86.870925759982,,,0,,America/Indiana/Indianapolis,,,0
+2439345,BUS881,,Veterans Mem Pkwy S & IFCU Dr (West of): BUS881,,40.367252978885,-86.868724379262,,,0,,America/Indiana/Indianapolis,,,0
+2439346,BUS880,,Veterans Mem Pkwy S & Cheryl Ln (West of) : BUS880,,40.367244846491,-86.865999459916,,,0,,America/Indiana/Indianapolis,,,0
+2439348,BUS927NW,,Broadview Rd & Soldiers Home(NW Corner): BUS927NW,,40.472742157183,-86.896718527494,,,0,,America/Indiana/Indianapolis,,,0
+2439349,BUS928NE,,Veterans Home Entrance (North Side): BUS928NE,,40.47443721,-86.89516854,,,0,,America/Indiana/Indianapolis,,,0
+2439350,BUS933,,Ingersol Hall at Indiana Veterans Home: BUS933,,40.47314975,-86.89244744,,,0,,America/Indiana/Indianapolis,,,0
+2439351,BUS932,,Pyle Hall at Indiana Veterans Home: BUS932,,40.47173,-86.89174,,,0,,America/Indiana/Indianapolis,,,0
+2439352,BUS931,,Mitchell Hall at Indiana Veterans Home: BUS931,,40.47077465,-86.88980814,,,0,,America/Indiana/Indianapolis,,,0
+2439353,BUS930,,Dehart Hall at Indiana Veterans Home: BUS930,,40.47264,-86.88863,,,0,,America/Indiana/Indianapolis,,,0
+2439354,BUS929,,Lincoln Hall at Indiana Veterans Home: BUS929,,40.47294,-86.89131,,,0,,America/Indiana/Indianapolis,,,0
+2439355,BUS928SE,,Veterans Home Entrance on Soldiers Home: BUS928SE,,40.47431114,-86.89564597,,,0,,America/Indiana/Indianapolis,,,0
+2439356,BUS927SE,,Broadview Rd & Soldiers Home(SE Corner): BUS927SE,,40.472511848351,-86.896514680655,,,0,,America/Indiana/Indianapolis,,,0
+2439357,BUS616,,Heritage Health Care on Soldiers Home Rd: BUS616,,40.466631771349,-86.89949096229,,,0,,America/Indiana/Indianapolis,,,0
+2439358,BUS936NE,,Soldiers Home & Overlook Dr (NE Corner): BUS936NE,,40.46083767703,-86.901027655361,,,0,,America/Indiana/Indianapolis,,,0
+2439359,BUS613,,Hartman Ct & Soldiers Home Rd (SE Corner): BUS613,,40.459495878234,-86.90151225755,,,0,,America/Indiana/Indianapolis,,,0
+2439360,BUS926,,Soldiers Home Rd & Myrtle Dr (NW of): BUS926,,40.45641008,-86.90296304,,,0,,America/Indiana/Indianapolis,,,0
+2439361,BUS335,,Sharon Rd & Soldiers Home Rd (NE Corner): BUS335,,40.454494560862,-86.903019009078,,,0,,America/Indiana/Indianapolis,,,0
+2439362,BUS595E,,Parkway Apts on Happy Hollow: BUS595E,,40.451346957137,-86.901977228177,,,0,,America/Indiana/Indianapolis,,,0
+2439363,BUS361SE,,Chippewa & Happy Hollow Rd (SE Corner): BUS361SE,,40.449886847436,-86.900848213799,,,0,,America/Indiana/Indianapolis,,,0
+2439364,BUS597E,,Pathway Ln & Happy Hollow Rd (SE Corner): BUS597E,,40.44643851894,-86.89930354751,,,0,,America/Indiana/Indianapolis,,,0
+2439365,BUS123E,,Nobb Hill Apts on Happy Hollow: BUS123E,,40.439357963392,-86.899179063001,,,0,,America/Indiana/Indianapolis,,,0
+2439366,BUS600N,,Happy Hollow Rd & Catherwood Dr(NE Corner):BUS600N,,40.437099004794,-86.899287037825,,,0,,America/Indiana/Indianapolis,,,0
+2439367,BUS145E,,Launch Apts (North Drive): BUS065,,40.4320127,-86.89903762,,,0,,America/Indiana/Indianapolis,,,0
+2439368,BUS460,,"Launch Apts (South Drive, SE Corner): BUS460",,40.430536,-86.899724,,,0,,America/Indiana/Indianapolis,,,0
+2439369,BUS602E,,"River Rd & Robinson St (North of, East): BUS602E",,40.428454,-86.900601,,,0,,America/Indiana/Indianapolis,,,0
+2439370,BUS951,,Salisbury St & Wiggins St (SW Corner): BUS951,,40.426543,-86.905991,,,0,,America/Indiana/Indianapolis,,,0
+2439371,BUS950,,Wiggins St & Vine St (SW Corner): BUS950,,40.426616911395,-86.908314619728,,,0,,America/Indiana/Indianapolis,,,0
+2439372,BUS559,,Northwestern Ave & Wiggins St (NW of): BUS559,,40.426959,-86.909409,,,0,,America/Indiana/Indianapolis,,,0
+2439373,BUS223,,Lodge Apts on Cumberland Ave (at Shelter): BUS223,,40.45914861,-86.94017467,,,0,,America/Indiana/Indianapolis,,,0
+2439376,BUS511NW,,Cumberland Ave & Kent Ave (North West of):BUS511NW,,40.46082365,-86.9306716,,,0,,America/Indiana/Indianapolis,,,0
+2439377,BUS455N,,Salem Courthouse Apts (at Shelter): BUS455N,,40.46084377,-86.92673009,,,0,,America/Indiana/Indianapolis,,,0
+2439378,BUS218NE,,Cumberland Ave & Yeager Rd (East of): BUS218NE,,40.46078,-86.92412,,,0,,America/Indiana/Indianapolis,,,0
+2439379,BUS541,,Cumberland Ave & Browning St (NE Corner): BUS541,,40.46070698,-86.92111891,,,0,,America/Indiana/Indianapolis,,,0
+2439380,BUS594,,Cumberland Pointe on Cumberland(NE Corner):BUS594,,40.46056214,-86.9188511,,,0,,America/Indiana/Indianapolis,,,0
+2439381,BUS418,,Cumberland Ave & Salisbury St (West of): BUS418,,40.46054,-86.91606,,,0,,America/Indiana/Indianapolis,,,0
+2439382,BUS427,,Westminster Village N & Salisbury (East): BUS427,,40.458456875373,-86.915549922952,,,0,,America/Indiana/Indianapolis,,,0
+2439383,BUS610,,Salisbury St. and Kent Ave (north of): BUS610,,40.45540827,-86.91561099,,,0,,America/Indiana/Indianapolis,,,0
+2439384,BUS484,,Park Ridge Dr & Salisbury St (SE Corner): BUS484,,40.450779027562,-86.915635545157,,,0,,America/Indiana/Indianapolis,,,0
+2439385,BUS633SE,,Salisbury St & Sycamore Ln (SE Corner): BUS633SE,,40.448014755257,-86.91562772681,,,0,,America/Indiana/Indianapolis,,,0
+2439386,BUS365SE,,Salisbury St & Lindberg Rd (South of): BUS365SE,,40.445537259522,-86.913980024774,,,0,,America/Indiana/Indianapolis,,,0
+2439387,BUS638,,Salisbury St & Creighton Rd (NE Corner): BUS638,,40.442821859757,-86.9122818056,,,0,,America/Indiana/Indianapolis,,,0
+2439388,BUS337NE,,Salisbury St & Grant St (NE Corner) : BUS337NE,,40.441926486474,-86.910848874946,,,0,,America/Indiana/Indianapolis,,,0
+2439389,BUS637SE,,Salisbury St & Rockland Dr (SE Corner): BUS637SE,,40.438900512125,-86.907327008856,,,0,,America/Indiana/Indianapolis,,,0
+2439390,BUS493,,Happy Hollow School on Salisbury(SE Corner):BUS493,,40.4373275,-86.9061495,,,0,,America/Indiana/Indianapolis,,,0
+2439391,BUS333SE,,Salisbury St & Robinson St (SE Corner): BUS333SE,,40.434908767824,-86.905754495343,,,0,,America/Indiana/Indianapolis,,,0
+2439392,BUS636SE,,Salisbury St & Dehart St (SE Corner): BUS636SE,,40.432581080929,-86.905667312612,,,0,,America/Indiana/Indianapolis,,,0
+2439393,BUS061,,Stadium Ave & Salisbury St (SW Corner): BUS061,,40.43074105586,-86.905846813412,,,0,,America/Indiana/Indianapolis,,,0
+2439394,BUS635,,Stadium Ave & Vine St (SW Corner): BUS635,,40.430775433926,-86.908311555236,,,0,,America/Indiana/Indianapolis,,,0
+2439395,BUS622,,Dodge St & Grant St (SW Corner): BUS622,,40.433188727219,-86.910623563746,,,0,,America/Indiana/Indianapolis,,,0
+2439396,BUS530S,,Dodge St & Garfield St (SW Corner): BUS530S,,40.4331513,-86.91304948,,,0,,America/Indiana/Indianapolis,,,0
+2439397,BUS530,,Northwestern Ave & Stadium Ave (McDonalds): BUS530,,40.43126034,-86.91373613,,,0,,America/Indiana/Indianapolis,,,0
+2439398,BUS949,,W Fowler Ave & Vine St (NW Corner): BUS949,,40.42775604,-86.90823492,,,0,,America/Indiana/Indianapolis,,,0
+2439399,BUS359,,E Fowler Ave & Littleton St & (NW Corner): BUS359,,40.426681,-86.903829,,,0,,America/Indiana/Indianapolis,,,0
+2439400,BUS519W,,Fannon & Salem St (NW Corner): BUS519W,,40.425823693264,-86.891556013064,,,0,,America/Indiana/Indianapolis,,,0
+2439401,BUS564,,4th St & Wall St (SE Corner): BUS564,,40.4236536,-86.89304557,,,0,,America/Indiana/Indianapolis,,,0
+2439402,BUS580,,River Rd & Howard Ave (SW of Corner): BUS580,,40.423491719963,-86.903594151396,,,0,,America/Indiana/Indianapolis,,,0
+2439403,BUS124,,River Rd & Quincy St (at Shelter): BUS124,,40.427308292231,-86.901442380266,,,0,,America/Indiana/Indianapolis,,,0
+2439404,BUS602W,,River Rd & Robinson St (NW Corner): BUS602W,,40.428631416364,-86.900770787851,,,0,,America/Indiana/Indianapolis,,,0
+2439405,BUS066,,"Launch Apts (North, @Shelter): BUS066",,40.431755,-86.89936,,,0,,America/Indiana/Indianapolis,,,0
+2439406,BUS600E,,Catherwood Dr & Happy Hollow Rd (East of): BUS600E,,40.43689432,-86.89813506,,,0,,America/Indiana/Indianapolis,,,0
+2439407,BUS123W,,Nobb Hill Apts on Happy Hollow: BUS123W,,40.439278975158,-86.899389003115,,,0,,America/Indiana/Indianapolis,,,0
+2439408,BUS599W,,Happy Hollow Rd & Laurel Dr (SW Corner): BUS599W,,40.444112340391,-86.899664629674,,,0,,America/Indiana/Indianapolis,,,0
+2439409,BUS597W,,Happy Hollow Rd & Pathway Ln (SW Corner): BUS597W,,40.446350807407,-86.899419104827,,,0,,America/Indiana/Indianapolis,,,0
+2439410,BUS596,,Happy Hollow Rd & Knox Dr (NW Corner): BUS596,,40.448364283588,-86.899803936187,,,0,,America/Indiana/Indianapolis,,,0
+2439411,BUS361NW,,Chippewa St & Happy Hollow (NW Corner): BUS361NW,,40.45003284647,-86.901159115349,,,0,,America/Indiana/Indianapolis,,,0
+2439412,BUS595W,,Parkway Apts on Happy Hollow: BUS595W,,40.451196572761,-86.902075840757,,,0,,America/Indiana/Indianapolis,,,0
+2439413,BUS144,,Univ Crossing Apts Soldiers Home(@Shelter):BUS144,,40.454482490882,-86.903147678093,,,0,,America/Indiana/Indianapolis,,,0
+2439414,BUS959,,Soldiers Home Rd & Linda Ln: BUS959,,40.457135150237,-86.902797932525,,,0,,America/Indiana/Indianapolis,,,0
+2439415,BUS267,,Soldiers Home Rd & Cumberland (NW Corner): BUS267,,40.459408536376,-86.901723480216,,,0,,America/Indiana/Indianapolis,,,0
+2439416,BUS824,,Soldiers Home Rd & Prophet Dr (SW of): BUS824,,40.464374910669,-86.899793232842,,,0,,America/Indiana/Indianapolis,,,0
+2439417,BUS692,,South St & Main St (NE Corner): BUS692,,40.4174349,-86.8784396,,,0,,America/Indiana/Indianapolis,,,0
+2439418,BUS691,,South St & 19th St (NE Corner): BUS691,,40.4174241403,-86.875792178983,,,0,,America/Indiana/Indianapolis,,,0
+2439419,BUS690,,South St & 23rd St (NE Corner): BUS690,,40.417479212208,-86.871078225097,,,0,,America/Indiana/Indianapolis,,,0
+2439428,BUS669,,McCarty Ln & Sagamore Pkwy S (East of): BUS669,,40.40293756,-86.85605522,,,0,,America/Indiana/Indianapolis,,,0
+2439429,BUS660,,McCarty Ln & Industrial Dr (NE Corner): BUS660,,40.402980795477,-86.850951250713,,,0,,America/Indiana/Indianapolis,,,0
+2439430,BUS656,,McCarty Ln & Kepner Dr (NE Corner): BUS656,,40.403038854023,-86.844203753833,,,0,,America/Indiana/Indianapolis,,,0
+2439431,BUS651,,McCarty Ln & Landmark Dr (NE Corner): BUS651,,40.403073158746,-86.841072823753,,,0,,America/Indiana/Indianapolis,,,0
+2439432,BUS650,,McCarty Ln & Sickle Ct (NW Corner): BUS650,,40.403101,-86.834147,,,0,,America/Indiana/Indianapolis,,,0
+2439433,BUS819,,McCarty Ln & Park East Blvd (NE Corner): BUS819,,40.403166444506,-86.827450948905,,,0,,America/Indiana/Indianapolis,,,0
+2439434,BUS894,,The Avenue North: BUS894,,40.472186,-86.945808,,,0,,America/Indiana/Indianapolis,,,0
+2439435,BUS521,,Beck Ln & Davis Dr (SW Corner): BUS521,,40.387969559962,-86.881809000194,,,0,,America/Indiana/Indianapolis,,,0
+2439436,BUS537,,Beck Ln & 9th St (East of): BUS537,,40.3878689,-86.88520145,,,0,,America/Indiana/Indianapolis,,,0
+2439437,BUS679,,Bishop Woods on 9th St (West Side): BUS679,,40.38970622,-86.88600879,,,0,,America/Indiana/Indianapolis,,,0
+2439438,BUS693,,9th St & Sarasota Dr (SW Corner): BUS693,,40.39310189,-86.88606646,,,0,,America/Indiana/Indianapolis,,,0
+2439439,BUS316,,9th St & Rosemont St (NW Corner): BUS316,,40.39477962,-86.88600075,,,0,,America/Indiana/Indianapolis,,,0
+2439440,BUS515,,Teal Rd & Crestview Ct (NE Corner): BUS515,,40.39544749,-86.88327428,,,0,,America/Indiana/Indianapolis,,,0
+2439441,BUS494,,Fairgrounds on Teal Rd (Teal Rd Entrance): BUS494,,40.39546894,-86.88125994,,,0,,America/Indiana/Indianapolis,,,0
+2439442,BUS187NW,,18th St & Teal Rd (West of): BUS187NW,,40.39558964,-86.87691879,,,0,,America/Indiana/Indianapolis,,,0
+2439443,BUS815,,18th St & JR Hiatt (SW Corner): BUS815,,40.397587013453,-86.876615341092,,,0,,America/Indiana/Indianapolis,,,0
+2439444,BUS986S,,Logan Ave & 18th St (SW Corner): BUS986S,,40.402601618253,-86.876864188784,,,0,,America/Indiana/Indianapolis,,,0
+2439445,BUS327SW,,Logan Ave & El Prado Ave (SW Corner): BUS327SW,,40.402567463781,-86.879600102839,,,0,,America/Indiana/Indianapolis,,,0
+2439446,BUS857,,14th St & Logan Ave (NW Corner): BUS857,,40.402704982386,-86.881503531001,,,0,,America/Indiana/Indianapolis,,,0
+2439447,BUS303,,14th St & King St (NW Corner): BUS303,,40.40472927,-86.88163277,,,0,,America/Indiana/Indianapolis,,,0
+2439448,BUS182,,14th St & Central Ave (NW Corner): BUS182,,40.406464,-86.881638,,,0,,America/Indiana/Indianapolis,,,0
+2439449,BUS210,,14th St & Adams St (NW Corner): BUS210,,40.40831404,-86.88173603,,,0,,America/Indiana/Indianapolis,,,0
+2439450,BUS108,,Kossuth St & 14th St (SW Corner): BUS108,,40.40989252,-86.88175749,,,0,,America/Indiana/Indianapolis,,,0
+2439451,BUS288,,Kossuth St & 11th St (SW Corner): BUS288,,40.40986168,-86.88426536,,,0,,America/Indiana/Indianapolis,,,0
+2439452,BUS253E,,Kossuth St & 9th St (East of): BUS253E,,40.409938,-86.88594,,,0,,America/Indiana/Indianapolis,,,0
+2439453,BUS683,,9th St & Hitt St (NW Corner): BUS683,,40.413437,-86.886683,,,0,,America/Indiana/Indianapolis,,,0
+2439454,BUS698,,Historical Museum on 9th St (West Side): BUS698,,40.416797261347,-86.886797630282,,,0,,America/Indiana/Indianapolis,,,0
+2439455,BUS519E,,Salem St & Fannon (NE Corner): BUS519E,,40.425758264135,-86.891227261636,,,0,,America/Indiana/Indianapolis,,,0
+2439456,BUS845,,Salem St & 7th (NE Corner): BUS845,,40.425758144404,-86.889367943558,,,0,,America/Indiana/Indianapolis,,,0
+2439457,BUS380NE,,Salem St & 9th St (NE Corner): BUS380NE,,40.425760444497,-86.886815828219,,,0,,America/Indiana/Indianapolis,,,0
+2439458,BUS843,,11th St & Salem St (NE Corner): BUS843,,40.425784899235,-86.88444435878,,,0,,America/Indiana/Indianapolis,,,0
+2439459,BUS842,,Village Pantry on Salem St: BUS842,,40.425807746454,-86.882678627286,,,0,,America/Indiana/Indianapolis,,,0
+2439460,BUS840,,Salem St &16th St (West of): BUS840,,40.425659779602,-86.880613412377,,,0,,America/Indiana/Indianapolis,,,0
+2439461,BUS839,,18th St & Salem St (North of): BUS839,,40.42589458,-86.87740829,,,0,,America/Indiana/Indianapolis,,,0
+2439462,BUS838,,Speedway on Elmwood Ave (NE Corner): BUS838,,40.42719327604,-86.876106422755,,,0,,America/Indiana/Indianapolis,,,0
+2439463,BUS873NE,,Northend Community Center,,40.4282571499914,-86.8740227086174,,,0,,America/Indiana/Indianapolis,,,0
+2439464,BUS835,,Market Square Shopping Center: BUS835,,40.430742,-86.870731,,,0,,America/Indiana/Indianapolis,,,0
+2439465,BUS841,,Elmwood Avenue & Greenbush St: BUS841,,40.432281711523,-86.865971416666,,,0,,America/Indiana/Indianapolis,,,0
+2439466,BUS830,,27th St & Underwood St (South of): BUS830,,40.437644953988,-86.866196648785,,,0,,America/Indiana/Indianapolis,,,0
+2439467,BUS209,,Elmwood Ave & Underwood St (SE Corner): BUS209,,40.437727779663,-86.862117857607,,,0,,America/Indiana/Indianapolis,,,0
+2439468,BUS829,,Elmwood Ave & Prairie Ln (SE Corner): BUS829,,40.436088714972,-86.862092995539,,,0,,America/Indiana/Indianapolis,,,0
+2439469,BUS276,,Vinton St & Elmwood Ave (SE Corner): BUS276,,40.434211509486,-86.863669936357,,,0,,America/Indiana/Indianapolis,,,0
+2439470,BUS827,,Elmwood Ave & 27th St (SE Corner): BUS827,,40.433124797711,-86.865309814139,,,0,,America/Indiana/Indianapolis,,,0
+2439471,BUS938,,Elmwood Ave & 27th St (West of): BUS938,,40.43191,-86.86632,,,0,,America/Indiana/Indianapolis,,,0
+2439472,BUS207,,Wayne Terrace & Elmwood Ave (SW Corner): BUS207,,40.430496098975,-86.869143362814,,,0,,America/Indiana/Indianapolis,,,0
+2439473,BUS132,,Elmwood Ave & Rainbow Dr (SW Corner): BUS132,,40.429184297083,-86.871798534188,,,0,,America/Indiana/Indianapolis,,,0
+2439474,BUS325SE,,21st St & Elmwood Ave (SE Corner): BUS325SE,,40.42856720412,-86.872877222423,,,0,,America/Indiana/Indianapolis,,,0
+2439475,BUS825,,21st St & Cobblestone Ct: BUS825,,40.42655307,-86.87280964,,,0,,America/Indiana/Indianapolis,,,0
+2439476,BUS848,,21st St & Union St: BUS848,,40.42500543,-86.87280428,,,0,,America/Indiana/Indianapolis,,,0
+2439477,BUS454,,Stonecrest Apartments (at Shelter): BUS454,,40.424666976395,-86.8762799633,,,0,,America/Indiana/Indianapolis,,,0
+2439478,BUS441,,Union St & 18th St (SW Corner): BUS441,,40.424657861595,-86.877501221249,,,0,,America/Indiana/Indianapolis,,,0
+2439479,BUS822,,Union St & 15th St (East of): BUS822,,40.424654321816,-86.880695244123,,,0,,America/Indiana/Indianapolis,,,0
+2439480,BUS401,,14th St & Union St (SW Corner): BUS401,,40.424667096114,-86.882402223223,,,0,,America/Indiana/Indianapolis,,,0
+2439481,BUS821,,12th St & Union St (SW Corner): BUS821,,40.424653782524,-86.884306452879,,,0,,America/Indiana/Indianapolis,,,0
+2439482,BUS367E,,Union St & 9th St (East of): BUS367E,,40.424647154295,-86.88650669462,,,0,,America/Indiana/Indianapolis,,,0
+2439483,BUS818,,8th St & Union St (SW Corner): BUS818,,40.424637756978,-86.888482210972,,,0,,America/Indiana/Indianapolis,,,0
+2439484,BUS745,,Cincinnati St & 6th St (SE Corner): BUS745,,40.422634455378,-86.890612680869,,,0,,America/Indiana/Indianapolis,,,0
+2439485,BUS410SE,,6th St & Brown St (SW Corner): BUS410SE,,40.42167279,-86.89058598,,,0,,America/Indiana/Indianapolis,,,0
+2439486,BUS568,,Earhart Hall on First St (North Side) : BUS568,,40.42541045,-86.92376625,,,0,,America/Indiana/Indianapolis,,,0
+2439487,BUS584SE,,1st St & Jischke Dr (SE Corner): BUS584SE,,40.425174227451,-86.92182449282,,,0,,America/Indiana/Indianapolis,,,0
+2439488,BUS063,,Stone Hall on Oval Dr: BUS063,,40.42438718,-86.9149686,,,0,,America/Indiana/Indianapolis,,,0
+2439489,BUS435,,Class of 1950: BUS435,,40.42590665,-86.91470843,,,0,,America/Indiana/Indianapolis,,,0
+2439490,BUS448,,Stewart Center: BUS448,,40.4252219898892,-86.9135819164818,,,0,,America/Indiana/Indianapolis,,,0
+2439491,BUS412,,Chauncey Village: BUS412,,40.4248490685305,-86.9080929542149,,,0,,America/Indiana/Indianapolis,,,0
+2439492,BUS538,,Electrical Engineering: BUS538,,40.42873236,-86.91140931,,,0,,America/Indiana/Indianapolis,,,0
+2439493,BUS190,,Armstrong Hall on Stadium Ave (@Shelter): BUS190,,40.431273675689,-86.915387656428,,,0,,America/Indiana/Indianapolis,,,0
+2439494,BUS735E,,Commanche Trl & Shasta Dr (South of): BUS735E,,40.382442938514,-86.869348513367,,,0,,America/Indiana/Indianapolis,,,0
+2439495,BUS449N,,Brady Ln &  Commanche Tr (Northeast of): BUS449N,,40.381857136854,-86.868662975104,,,0,,America/Indiana/Indianapolis,,,0
+2439496,BUS720,,Brady Ln & Portsmouth Dr W (NE Corner): BUS720,,40.381895,-86.863708,,,0,,America/Indiana/Indianapolis,,,0
+2439497,BUS301N,,Pheasant Run Apts (at Shelter): BUS301N,,40.381926385303,-86.861067548674,,,0,,America/Indiana/Indianapolis,,,0
+2439498,BUS961,,Village Pantry on Brady Ln (North Side): BUS961,,40.381969713065,-86.858776644425,,,0,,America/Indiana/Indianapolis,,,0
+2439499,BUS713,,Brady Ln East of Reagan Dr (North): BUS713,,40.381996979614,-86.854989806193,,,0,,America/Indiana/Indianapolis,,,0
+2439500,BUS711N,,Brady Ln & Imperial Pkwy (NE Corner): BUS711N,,40.382048561405,-86.849002237205,,,0,,America/Indiana/Indianapolis,,,0
+2439501,BUS404NE,,Creasy Ln & US 52 (NE Corner): BUS404NE,,40.383112856311,-86.843582246585,,,0,,America/Indiana/Indianapolis,,,0
+2439502,BUS142N,,Ivy Tech on Creasy (across from Shelter): BUS142N,,40.385338563151,-86.841762525662,,,0,,America/Indiana/Indianapolis,,,0
+2439503,BUS941NW,,Creasy Ln & Bonlou (Menards Entrance): BUS941NW,,40.387073408601,-86.840368216669,,,0,,America/Indiana/Indianapolis,,,0
+2439504,BUS719,,Torchwood Dr & SR 38 (SW Corner): BUS719,,40.38991543,-86.84086855,,,0,,America/Indiana/Indianapolis,,,0
+2439505,BUS437W,,Pay Less on SR 38 (East of Shelter): BUS437W,,40.391134,-86.84458,,,0,,America/Indiana/Indianapolis,,,0
+2439506,BUS561,,Lambert Fieldhouse on University St: BUS561,,40.43260528666,-86.916626844307,,,0,,America/Indiana/Indianapolis,,,0
+2439507,BUS111,,Lambert Fieldhouse on Stadium Ave: BUS111,,40.4314330413879,-86.9164339819216,,,0,,America/Indiana/Indianapolis,,,0
+2439508,BUS804,,Honors College on Russell St: BUS804,,40.426372157628,-86.9193113215255,,,0,,America/Indiana/Indianapolis,,,0
+2439509,BUS439,,Russell St & 4th St (NE Corner): BUS439,,40.428374447732,-86.919258392931,,,0,,America/Indiana/Indianapolis,,,0
+2439510,BUS213S,,Steven Beering Dr & Tower Dr (SW of): BUS213S,,40.432573947845,-86.919274807216,,,0,,America/Indiana/Indianapolis,,,0
+2439511,BUS426,,Stadium Parking Lot on Victory Dr: BUS426,,40.436077338362,-86.918420472572,,,0,,America/Indiana/Indianapolis,,,0
+2439512,BUS893,,Walmart (South Lafayette) (West of Entr): BUS893,,40.365249515011,-86.860619495855,,,0,,America/Indiana/Indianapolis,,,0
+2439513,BUS892,,Pink Walrus Yogurt: BUS892,,40.366117921608,-86.861982563681,,,0,,America/Indiana/Indianapolis,,,0
+2439514,BUS877,,Promenade Pkwy & Veterans Memorial Pkwy S: BUS877,,40.366722384586,-86.862853438697,,,0,,America/Indiana/Indianapolis,,,0
+2439515,BUS876,,Foxfire Apts on Veterans Mem Pkwy S: BUS876,,40.367041910349,-86.868310710826,,,0,,America/Indiana/Indianapolis,,,0
+2439516,BUS875SW,,Vet Mem Pkwy S & Regal Valley Dr: BUS875SW,,40.367026152651,-86.871376155907,,,0,,America/Indiana/Indianapolis,,,0
+2439517,BUS874,,Valley Lakes Center on Vet Mem Pkwy S: BUS874,,40.367011689014,-86.874279040507,,,0,,America/Indiana/Indianapolis,,,0
+2439518,BUS873,,18th St & Waverly Dr (NW Corner): BUS873,,40.3706144030166,-86.876214321444,,,0,,America/Indiana/Indianapolis,,,0
+2439520,BUS871,,18th St & Ortman Ln (NW Corner): BUS871,,40.375111359093,-86.876164462641,,,0,,America/Indiana/Indianapolis,,,0
+2439522,BUS869,,18th St & Normandy Dr (NW Corner): BUS869,,40.378216988919,-86.876241937157,,,0,,America/Indiana/Indianapolis,,,0
+2439523,BUS866,,18th St and Twyckenham Blvd: BUS866,,40.381622335924,-86.876600263401,,,0,,America/Indiana/Indianapolis,,,0
+2439524,BUS340S,,Twyckenham Blvd & 9th St (West of): BUS340S,,40.381805747911,-86.885870644705,,,0,,America/Indiana/Indianapolis,,,0
+2439526,BUS704S,,Twyckenham Blvd & Quarry Dr (SW Corner): BUS704S,,40.3834151,-86.89263117,,,0,,America/Indiana/Indianapolis,,,0
+2439527,BUS703S,,Poland Hill & Twyckenham Blvd (East of): BUS703S,,40.3833919932954,-86.8961517570504,,,0,,America/Indiana/Indianapolis,,,0
+2439528,BUS764,,Twyckenham Blvd & Old US 231S (East of):BUS764,,40.384611323978,-86.904041915613,,,0,,America/Indiana/Indianapolis,,,0
+2439529,BUS658,,CR 10 W & Twyckenham Blvd (SW Corner): BUS658,,40.38460063,-86.90699171,,,0,,America/Indiana/Indianapolis,,,0
+2439530,BUS211,,Twyckenham Blvd & Old Romney (NW Corner): BUS211,,40.38493,-86.91147,,,0,,America/Indiana/Indianapolis,,,0
+2439531,BUS212,,Romney Meadows Apts on Old Romney (Shelter):BUS212,,40.38706,-86.91229,,,0,,America/Indiana/Indianapolis,,,0
+2439532,BUS159,,Old Romney Rd & SR 25 (NW Corner): BUS159,,40.389168015319,-86.91293216414,,,0,,America/Indiana/Indianapolis,,,0
+2439534,BUS655,,Elston Point Apts on Elston Rd(NE Corner): BUS655,,40.393288056164,-86.912234960419,,,0,,America/Indiana/Indianapolis,,,0
+2439535,BUS270,,Elston Rd & Beck Ln (West of): BUS270,,40.393064476937,-86.9091465893583,,,0,,America/Indiana/Indianapolis,,,0
+2439537,BUS254,,Elston Rd & Old US231 (West of): BUS254,,40.392609256821,-86.904124070874,,,0,,America/Indiana/Indianapolis,,,0
+2439538,BUS653NE,,Old US 231S & Windy Hill Dr (North Side): BUS653NE,,40.394487221316,-86.900181231711,,,0,,America/Indiana/Indianapolis,,,0
+2439539,BUS261,,4th St & Teal Rd (North of): BUS261,,40.395892262443,-86.8959173618,,,0,,America/Indiana/Indianapolis,,,0
+2439540,BUS665,,4th St & Williams Ridge/Saw Mill Rd: BUS665,,40.398091383148,-86.894600627669,,,0,,America/Indiana/Indianapolis,,,0
+2439541,BUS264W,,4th St & Montefiore St (NW Corner): BUS264W,,40.401793683122,-86.893117449308,,,0,,America/Indiana/Indianapolis,,,0
+2439543,BUS399,,4th St & Owen St (NW Corner): BUS399,,40.40529388,-86.89309117,,,0,,America/Indiana/Indianapolis,,,0
+2439545,BUS240,,4th St & Fairmont St (NW Corner): BUS240,,40.4087271,-86.89309251,,,0,,America/Indiana/Indianapolis,,,0
+2439547,BUS194,,Fountain St & 4th St (NW Corner): BUS194,,40.412807898132,-86.893095630003,,,0,,America/Indiana/Indianapolis,,,0
+2439549,BUS150,,Alabama St & 4th St (SW Corner): BUS150,,40.41633653,-86.89313274,,,0,,America/Indiana/Indianapolis,,,0
+2439550,BUS403,,Walmart West Lafayette (at Shelter): BUS403,,40.457538,-86.934027,,,0,,America/Indiana/Indianapolis,,,0
+2439551,BUS137,,Four Point Sheraton on Cumberland: BUS137,,40.45957106,-86.93504762,,,0,,America/Indiana/Indianapolis,,,0
+2439552,BUS250,,Sagamore Pkwy W & Geddes Way (South of): BUS250,,40.46379018,-86.93613258,,,0,,America/Indiana/Indianapolis,,,0
+2439553,BUS390,,Sagamore Pkwy W & Morehouse Rd (SW Corner): BUS390,,40.46687606,-86.94022697,,,0,,America/Indiana/Indianapolis,,,0
+2439554,BUS179,,Avenue Apts SOUTH on Sagamore Pkwy W: BUS179,,40.467337,-86.947395,,,0,,America/Indiana/Indianapolis,,,0
+2439555,BUS283,,Sagamore Pkwy W & Hunter Rd (SW Corner): BUS283,,40.467371,-86.949489,,,0,,America/Indiana/Indianapolis,,,0
+2439556,BUS170,,US 231/52  & Wyndham Way (East of): BUS170,,40.46728375,-86.9579443,,,0,,America/Indiana/Indianapolis,,,0
+2439557,BUS342,,US 52 & Klondike Rd (SE Corner): BUS342,,40.467143278679,-86.961971206966,,,0,,America/Indiana/Indianapolis,,,0
+2439558,BUS317,,Klondike Schools (SE Corner Center Drive): BUS317,,40.464494883414,-86.96199639318,,,0,,America/Indiana/Indianapolis,,,0
+2439559,BUS204,,Lafayette Blind on Klondike Rd: BUS204,,40.46024295,-86.961977,,,0,,America/Indiana/Indianapolis,,,0
+2439561,BUS464,,Pemberly Ct & Klondike,,40.4570780031692,-86.9619210172488,,,0,,America/Indiana/Indianapolis,,,0
+2439562,BUS268,,Copper Beech Apts Klondike (SE Corner): BUS268,,40.45431661,-86.96189654,,,0,,America/Indiana/Indianapolis,,,0
+2439563,BUS195,,Klondike Rd & Lindberg Rd (NE Corner): BUS195,,40.4458301,-86.96178925,,,0,,America/Indiana/Indianapolis,,,0
+2439564,BUS904,,Longspur Dr & Lindberg Rd (NE Corner): BUS904,,40.44593739,-86.95660051,,,0,,America/Indiana/Indianapolis,,,0
+2439565,BUS498,,Wake Robin Dr & Lindberg Rd (NE Corner): BUS498,,40.44593471,-86.9542053,,,0,,America/Indiana/Indianapolis,,,0
+2439566,BUS905,,Robin Hood Ln & Lindberg Rd (NE Corner): BUS905,,40.44594276,-86.95181411,,,0,,America/Indiana/Indianapolis,,,0
+2439567,BUS308,,Village West Apts on Lindberg (at Shelter): BUS308,,40.44609832,-86.94013309,,,0,,America/Indiana/Indianapolis,,,0
+2439572,BUS236,,McCormick Rd & Lindberg Rd (SE Corner),,40.445863244813,-86.9441970920342,,,0,,America/Indiana/Indianapolis,,,0
+2439573,BUS393,,SW Blackbird Farms Apt Buildings (E): BUS393,,40.443047830286,-86.942470806583,,,0,,America/Indiana/Indianapolis,,,0
+2439574,BUS906E,,Schwartz Tennis Cntr on McCormick (East): BUS906E,,40.43595287,-86.93560284,,,0,,America/Indiana/Indianapolis,,,0
+2439575,BUS251E,,McCormick Rd & Stadium Ave (NE Corner): BUS251E,,40.43133679,-86.9326846,,,0,,America/Indiana/Indianapolis,,,0
+2439576,BUS205,,Lindberg Rd & Kestral Blvd (NE Corner): BUS205,,40.44609832,-86.9365054,,,0,,America/Indiana/Indianapolis,,,0
+2439577,BUS375W,,Lindberg Rd & Northwestern Ave (West of): BUS375W,,40.4462083,-86.92208316,,,0,,America/Indiana/Indianapolis,,,0
+2439578,BUS897,,Northwestern Ave & Windsor DR (SW of): BUS897,,40.448072,-86.923452,,,0,,America/Indiana/Indianapolis,,,0
+2439579,BUS161,,Northwestern Ave & Yeager Rd (NW Corner): BUS161,,40.4500452,-86.92490083,,,0,,America/Indiana/Indianapolis,,,0
+2439580,BUS162,,Northwestern Ave & Neil Armstrong Dr (NW): BUS162,,40.45188519,-86.92664158,,,0,,America/Indiana/Indianapolis,,,0
+2439581,BUS456,,Purdue Village Bldgs149 thru 151: BUS456,,40.418922471092,-86.925498737209,,,0,,America/Indiana/Indianapolis,,,0
+2439582,BUS275,,Halsey Dr & Arnold Dr (NW Corner): BUS275,,40.42019996875,-86.927908628199,,,0,,America/Indiana/Indianapolis,,,0
+2439583,BUS262,,Nimitz Dr & Halsey Dr (SW Corner): BUS262,,40.42125034,-86.92660805,,,0,,America/Indiana/Indianapolis,,,0
+2439584,BUS263,,Purdue Village Preschool on Nimitz Dr: BUS263,,40.42189005,-86.92748916,,,0,,America/Indiana/Indianapolis,,,0
+2439585,BUS125,,Squirrel Park on Nimitz Dr (at Crosswalk): BUS125,,40.42228701,-86.92912262,,,0,,America/Indiana/Indianapolis,,,0
+2439586,BUS285,,MacArthur Dr & 1st St (NW Corner): BUS285,,40.425490048637,-86.925852447245,,,0,,America/Indiana/Indianapolis,,,0
+2439587,BUS473,,Hillenbrand Hall on 3rd St (North): BUS473,,40.427477667788,-86.9244112340478,,,0,,America/Indiana/Indianapolis,,,0
+2439588,BUS465,,RSC on Jischke Dr: BUS465,,40.427897414254,-86.921796305397,,,0,,America/Indiana/Indianapolis,,,0
+2439589,BUS510,,Jischke Dr & Stadium Ave (South of): BUS510,,40.43112892,-86.92166742,,,0,,America/Indiana/Indianapolis,,,0
+2439590,BUS413,,Ford Hall on Stadium (North Side): BUS413,,40.431510882915,-86.920049810555,,,0,,America/Indiana/Indianapolis,,,0
+2439591,BUS154,,Young Hall on Grant St (East): BUS154,,40.4232164,-86.9102734,,,0,,America/Indiana/Indianapolis,,,0
+2439592,BUS504,,McCormick Rd & 3rd Street: BUS504,,40.4272529675998,-86.9303616336384,,,0,,America/Indiana/Indianapolis,,,0
+2439593,BUS566,,Purdue West on State St: BUS566,,40.424335092181,-86.929733232166,,,0,,America/Indiana/Indianapolis,,,0
+2439594,BUS898,,First Street Towers on State St: BUS898,,40.42438584,-86.92313325,,,0,,America/Indiana/Indianapolis,,,0
+2439595,BUS156,,Wabash Landing at Shelter: BUS156,,40.421025,-86.901425,,,0,,America/Indiana/Indianapolis,,,0
+2439596,BUS287NE,,2nd St & Columbia St (NE Corner): BUS287NE,,40.41827477526,-86.89531504486,,,0,,America/Indiana/Indianapolis,,,0
+2439597,BUS421SW,,Kingsway Dr & SR 38 (SW Corner): BUS421SW,,40.394295595405,-86.848811910864,,,0,,America/Indiana/Indianapolis,,,0
+2439598,BUS948,,Professional Ct & SR 38 (SW Corner): BUS948,,40.395101771734,-86.849922917558,,,0,,America/Indiana/Indianapolis,,,0
+2439599,BUS141,,SR 38 @ Shoe Carnival: BUS141,,40.396974249113,-86.852590021107,,,0,,America/Indiana/Indianapolis,,,0
+2439600,BUS667,,Lafayette Marketplace: BUS667,,40.400107,-86.852582,,,0,,America/Indiana/Indianapolis,,,0
+2439601,BUS525,,Main St & McCarty Ln (West of): BUS525,,40.40276455,-86.86068337,,,0,,America/Indiana/Indianapolis,,,0
+2439602,BUS531SW,,Main St & Earl Ave (SW Corner): BUS531SW,,40.405010124744,-86.863796984239,,,0,,America/Indiana/Indianapolis,,,0
+2439603,BUS664SE,,Main St & S 28th St (SE Corner): BUS664SE,,40.40601661975,-86.865181107757,,,0,,America/Indiana/Indianapolis,,,0
+2439604,BUS663SE,,Main St & S 25th St (South of): BUS663SE,,40.40768641,-86.86750825,,,0,,America/Indiana/Indianapolis,,,0
+2439605,BUS216W,,Main St & 24th St (Northwest of): BUS216W,,40.40937718636,-86.86982700132,,,0,,America/Indiana/Indianapolis,,,0
+2439606,BUS947,,Main St & Congress St (North of): BUS947,,40.411619565736,-86.872311315541,,,0,,America/Indiana/Indianapolis,,,0
+2439607,BUS482NW,,Main St & Scott St (NW Corner): BUS482NW,,40.413882400554,-86.87484157193,,,0,,America/Indiana/Indianapolis,,,0
+2439608,BUS444SW,,Main St & Jackson St (SW Corner): BUS444SW,,40.415389,-86.876524,,,0,,America/Indiana/Indianapolis,,,0
+2439609,BUS391NW,,Main St & Alabama St (NW Corner): BUS391NW,,40.416537773161,-86.877807730828,,,0,,America/Indiana/Indianapolis,,,0
+2439610,BUS939,,South St & 16th St (SW Corner): BUS939,,40.417269216224,-86.878816314202,,,0,,America/Indiana/Indianapolis,,,0
+2439611,BUS152,,River Walk Apartments on 9th St: BUS152,,40.435211458025,-86.886656445924,,,0,,America/Indiana/Indianapolis,,,0
+2439612,BUS367SE,,Union St & 9th St (SE Corner): BUS367SE,,40.424589012686,-86.886851446428,,,0,,America/Indiana/Indianapolis,,,0
+2439613,BUS783SE,,9th St & Cincinnati St (SE Corner): BUS783SE,,40.422987452704,-86.886799370185,,,0,,America/Indiana/Indianapolis,,,0
+2439614,BUS220SE,,9th St & Brown St (SE Corner): BUS220SE,,40.421684921591,-86.886762873689,,,0,,America/Indiana/Indianapolis,,,0
+2439615,BUS255,,9th St & Ferry St (Northeast of): BUS255,,40.42034761025,-86.886693670219,,,0,,America/Indiana/Indianapolis,,,0
+2439616,BUS355,,Main St & 7th St (SW Corner): BUS355,,40.419081664339,-86.8888247408,,,0,,America/Indiana/Indianapolis,,,0
+2439617,BUS358,,Main St & 6th St (SW Corner): BUS358,,40.419109388107,-86.890798340732,,,0,,America/Indiana/Indianapolis,,,0
+2439618,BUS363,,Main St & 5th St (SW Corner): BUS363,,40.419096031604,-86.892019593107,,,0,,America/Indiana/Indianapolis,,,0
+2439620,BUS644,,Wabash Landing on State St (at Roebuck Dr): BUS644,,40.421053,-86.901992,,,0,,America/Indiana/Indianapolis,,,0
+2439621,BUS458,,River Rd & Wood St (East side): BUS458,,40.420405342093,-86.905140371341,,,0,,America/Indiana/Indianapolis,,,0
+2439622,BUS523,,Williams St & Salisbury St (SW Corner): BUS523,,40.418398907773,-86.9080464560442,,,0,,America/Indiana/Indianapolis,,,0
+2439623,BUS323,,Grant St & Williams St (NW Corner): BUS323,,40.41856679,-86.91035118,,,0,,America/Indiana/Indianapolis,,,0
+2439624,BUS322,,Grant St & Harrison St (NW Corner): BUS322,,40.420453,-86.910367,,,0,,America/Indiana/Indianapolis,,,0
+2439625,BUS153,,Young Hall on Grant St (West): BUS153,,40.422842,-86.910426,,,0,,America/Indiana/Indianapolis,,,0
+2439626,BUS345,,Lilly Hall on State St: BUS345,,40.42408543,-86.91720691,,,0,,America/Indiana/Indianapolis,,,0
+2439627,BUS584NW,,Jischke Dr & 1st St (NW Corner): BUS584NW,,40.42549359,-86.92223873,,,0,,America/Indiana/Indianapolis,,,0
+2439628,BUS366,,Jischke Dr & 3rd St (SW Corner): BUS366,,40.427311964336,-86.922224720588,,,0,,America/Indiana/Indianapolis,,,0
+2439629,BUS282NE,,MacArthur Dr & 1st St (at Shelter): BUS282NE,,40.425552506045,-86.925665175259,,,0,,America/Indiana/Indianapolis,,,0
+2439630,BUS673,,Dicks at Tippecanoe Mall: BUS673,,40.392557,-86.849441,,,0,,America/Indiana/Indianapolis,,,0
+2439631,BUS672,,Wendy's at Tippecanoe Mall (South Side): BUS672,,40.39343315,-86.84895005,,,0,,America/Indiana/Indianapolis,,,0
+2439632,BUS376,,Cambridge Estates on SR 38: BUS376,,40.39288061,-86.84641268,,,0,,America/Indiana/Indianapolis,,,0
+2439633,BUS717,,Guaranteed Transmission on SR 38: BUS717,,40.391429825259,-86.843658737694,,,0,,America/Indiana/Indianapolis,,,0
+2439634,BUS499,,SR 38 & Creasy Ln (West of): BUS499,,40.389502703628,-86.839610135794,,,0,,America/Indiana/Indianapolis,,,0
+2439635,BUS499N,,"Creasy Ln & SR 38/25 (North of, West Side): BUS499N",,40.389464637014,-86.838726983287,,,0,,America/Indiana/Indianapolis,,,0
+2439636,BUS915,,Creasy Ln & St. Francis Way (NW Corner): BUS915,,40.392597085649,-86.838501234396,,,0,,America/Indiana/Indianapolis,,,0
+2439637,BUS770NW,,Creasy Ct & Creasy Ln (NW Corner): BUS770NW,,40.396416089481,-86.838536517166,,,0,,America/Indiana/Indianapolis,,,0
+2439638,BUS769NW,,Amelia Ave & Creasy Ln (NW Corner): BUS769NW,,40.398327066111,-86.838575232804,,,0,,America/Indiana/Indianapolis,,,0
+2439639,BUS768,,Creasy Ln (Across from Burberry Dr): BUS768,,40.40097552,-86.83870401,,,0,,America/Indiana/Indianapolis,,,0
+2439640,BUS774N,,Emerald Pines & McCarty Ln (NE Corner): BUS774N,,40.40309581,-86.83647107,,,0,,America/Indiana/Indianapolis,,,0
+2439641,BUS766W,,McCarty Ln & Sickle Ct (NW Corner): BUS766W,,40.40308776,-86.83438297,,,0,,America/Indiana/Indianapolis,,,0
+2439642,BUS765NW,,Sickle Ct & Julia Ln (NW Corner): BUS765NW,,40.404841717885,-86.83537692755,,,0,,America/Indiana/Indianapolis,,,0
+2439643,BUS200S,,Julia Ln & Harper (SW Corner): BUS200S,,40.406325183031,-86.834555585561,,,0,,America/Indiana/Indianapolis,,,0
+2439644,BUS775SW,,Stinger St & Harper Dr (SW Corner): BUS775SW,,40.406251977594,-86.838170954784,,,0,,America/Indiana/Indianapolis,,,0
+2439645,BUS763W,,Creasy Ln & Fortune Dr (SE Corner): BUS763E,,40.41092786,-86.83895748,,,0,,America/Indiana/Indianapolis,,,0
+2439646,BUS771,,Starbucks Coffee on Creasy Ln: BUS771,,40.414908082464,-86.839034835024,,,0,,America/Indiana/Indianapolis,,,0
+2439647,BUS192,,Creasy Ln & South St (West Side North of): BUS192,,40.41791099,-86.83918815,,,0,,America/Indiana/Indianapolis,,,0
+2439648,BUS468,,Creasy Ln & Rome Dr (SW Corner): BUS468,,40.420803414672,-86.839360205586,,,0,,America/Indiana/Indianapolis,,,0
+2439649,BUS896,,Executive Dr & Rome Dr (SE Corner): BUS896,,40.420547822394,-86.843482679436,,,0,,America/Indiana/Indianapolis,,,0
+2439650,BUS820,,Rome Dr & Shenandoah Dr (at  Shelter): BUS820,,40.420522947502,-86.845734742226,,,0,,America/Indiana/Indianapolis,,,0
+2439651,BUS759W,,S Driftwood & Shenandoah Dr (SW Corner) : BUS759W,,40.421512351525,-86.846553269131,,,0,,America/Indiana/Indianapolis,,,0
+2439652,BUS920NW,,Claremont Ln & Shenandoah Dr(NW Corner): BUS920NW,,40.423190574388,-86.847193689697,,,0,,America/Indiana/Indianapolis,,,0
+2439653,BUS341NW,,Shenandoah Dr & Union St (NW Corner): BUS485,,40.425112313582,-86.84721810885,,,0,,America/Indiana/Indianapolis,,,0
+2439654,BUS757NW,,S Navarre Dr & Shenandoah (NW Corner): BUS757NW,,40.426762794849,-86.847250327748,,,0,,America/Indiana/Indianapolis,,,0
+2439655,BUS050,,Shenandoah Drive at Munger Trail Crossing: BUS050,,40.42891035633,-86.844978825232,,,0,,America/Indiana/Indianapolis,,,0
+2439656,BUS513,,Shenandoah Dr & Greenbush St (SW Corner): BUS513,,40.432022408397,-86.845203666944,,,0,,America/Indiana/Indianapolis,,,0
+2439657,BUS526SW,,Chauncey Ct & Greenbush St (SW Corner): BUS526SW,,40.43201002,-86.84777122,,,0,,America/Indiana/Indianapolis,,,0
+2439658,BUS753,,RRX on Greenbush St (SW Corner): BUS753,,40.43198722,-86.85687866,,,0,,America/Indiana/Indianapolis,,,0
+2439659,BUS231S,,Greenbush St & Sagamore Pkwy N (SW Corner):BUS231S,,40.432063739342,-86.859776886938,,,0,,America/Indiana/Indianapolis,,,0
+2439660,BUS453,,Greenbush St & 28th St (East of): BUS453,,40.432058846396,-86.863276211965,,,0,,America/Indiana/Indianapolis,,,0
+2439661,BUS278SW,,Greenbush St & Elmwood Ave (SW Corner): BUS278SW,,40.432060757832,-86.866578113805,,,0,,America/Indiana/Indianapolis,,,0
+2439662,BUS245SE,,Market Square (EAST) on Greenbush St: BUS245SE,,40.432049987886,-86.869265822445,,,0,,America/Indiana/Indianapolis,,,0
+2439663,BUS245SW,,Market Square (WEST) on Greenbush St: BUS245SW,,40.4320248532618,-86.8708883238417,,,0,,America/Indiana/Indianapolis,,,1
+2439664,BUS230S,,Greenbush Crossing Apartments: BUS230S,,40.432052151756,-86.873687400115,,,0,,America/Indiana/Indianapolis,,,0
+2439665,BUS330SW,,Greenbush St & 18th St (SW Corner): BUS330SW,,40.432030143431,-86.877753212151,,,0,,America/Indiana/Indianapolis,,,0
+2439666,BUS921,,Linnwood Park: BUS921,,40.432045,-86.879877,,,0,,America/Indiana/Indianapolis,,,0
+2439668,BUS512,,9th St  & Greenbush St (SE Corner): BUS512,,40.43201404,-86.88703876,,,0,,America/Indiana/Indianapolis,,,0
+2439669,BUS987SE,,9th St & Roberts St (SE Corner): BUS987SE,,40.429648682318,-86.886984180324,,,0,,America/Indiana/Indianapolis,,,0
+2439670,BUS292SE,,9th St & Hartford St (SE Corner): BUS292SE,,40.427556175923,-86.88692045519,,,0,,America/Indiana/Indianapolis,,,0
+2439671,BUS380SE,,Salem St & 9th St (SE Corner): BUS380SE,,40.425581411388,-86.886866579453,,,0,,America/Indiana/Indianapolis,,,0
+2439672,BUS328,,Union St & 6th St (SE Corner): BUS328,,40.424591704267,-86.890643736408,,,0,,America/Indiana/Indianapolis,,,0
+2439673,BUS746,,Tippecanoe Co. Health Dept. on 6th St: BUS746,,40.42333442,-86.8906289,,,0,,America/Indiana/Indianapolis,,,0
+2439674,BUS410SW,,Brown St & 6th St (SW Corner): BUS410SW,,40.42178276,-86.89085286,,,0,,America/Indiana/Indianapolis,,,0
+2439675,BUS744,,Brown St & 5th St (SW Corner): BUS744,,40.421776248584,-86.892026181518,,,0,,America/Indiana/Indianapolis,,,0
+2439677,BUS547,,State St & Russell St (NE Corner): BUS547,,40.42426782,-86.91899728,,,0,,America/Indiana/Indianapolis,,,0
+2439678,BUS271,,Purdue Memorial Union (PMU) on State St: BUS271,,40.424118,-86.912036,,,0,,America/Indiana/Indianapolis,,,0
+2439679,BUS557,,Physics (pulloff on Northwestern): BUS557,,40.43041008,-86.91320908,,,0,,America/Indiana/Indianapolis,,,0
+2439680,BUS300,,The Quarters on Lindberg (at Shelter): BUS300,,40.44614392,-86.94351938,,,0,,America/Indiana/Indianapolis,,,0
+2439681,BUS010,,The Cottages on Lindberg on Mida Dr: BUS010,,40.449178,-86.94137,,,0,,America/Indiana/Indianapolis,,,0
+2439682,BUS802,,Willowbrook Dr & Willowbrook Cr (North of): BUS802,,40.44918152,-86.94048312,,,0,,America/Indiana/Indianapolis,,,0
+2439683,BUS801,,Village West Clubhouse on Willowbrook Dr: BUS801,,40.447109359941,-86.939310015092,,,0,,America/Indiana/Indianapolis,,,0
+2439684,BUS549N,,Fowler House Apts on Ferry St (North): BUS549N,,40.420098676187,-86.892601034042,,,0,,America/Indiana/Indianapolis,,,0
+2439685,BUS534N,,Ferry St & 6th St (NE Corner): BUS534N,,40.42011943225,-86.890500118792,,,0,,America/Indiana/Indianapolis,,,0
+2439686,BUS532NE,,Ferry St & 8th St (NE Corner): BUS532NE,,40.420086795532,-86.888168264782,,,0,,America/Indiana/Indianapolis,,,0
+2439687,BUS794N,,Ferry St & 10th St (North Side): BUS794N,,40.420093477585,-86.885991517768,,,0,,America/Indiana/Indianapolis,,,0
+2439688,BUS796N,,Ferry St & Erie St (West of) : BUS796N,,40.420091355871,-86.884233387472,,,0,,America/Indiana/Indianapolis,,,0
+2439689,BUS797N,,Ferry St & Perrin Ave (West of): BUS797N,,40.420068869432,-86.881595517395,,,0,,America/Indiana/Indianapolis,,,0
+2439690,BUS798NE,,Ferry St & Asher St (NE Corner): BUS798NE,,40.419352150504,-86.878881366748,,,0,,America/Indiana/Indianapolis,,,0
+2439691,BUS280N,,Ferry St & 19th St (West of): BUS280N,,40.418970515924,-86.875858807124,,,0,,America/Indiana/Indianapolis,,,0
+2439692,BUS548NE,,Ferry St & 21st St (NE Corner): BUS548NE,,40.41900737543,-86.8734437095,,,0,,America/Indiana/Indianapolis,,,0
+2439693,BUS545N,,Ferry St & 23rd St (NE Corner): BUS545N,,40.419045753085,-86.871135547601,,,0,,America/Indiana/Indianapolis,,,0
+2439694,BUS542,,Ferry St & 26th St (NE Corner at Shelter): BUS542,,40.419105536742,-86.867439815802,,,0,,America/Indiana/Indianapolis,,,0
+2439695,BUS116,,Ferry St & 28th St (NW Corner): BUS116,,40.419121595434,-86.865351731309,,,0,,America/Indiana/Indianapolis,,,0
+2439696,BUS487W,,Earl Ave & Ferry St (NW Corner): BUS487W,,40.419249423603,-86.860770896469,,,0,,America/Indiana/Indianapolis,,,0
+2439697,BUS459NW,,Earl Ave & Cason St (NW Corner): BUS459NW,,40.420625700058,-86.86064377154,,,0,,America/Indiana/Indianapolis,,,0
+2439698,BUS507W,,Portledge Commons Apts on Earl Ave: BUS507W,,40.422105179055,-86.860667123541,,,0,,America/Indiana/Indianapolis,,,0
+2439699,BUS196W,,Earl & Union (West Side South of): BUS196W,,40.424266486795,-86.860699347989,,,0,,America/Indiana/Indianapolis,,,0
+2439700,BUS382N,,Union St & Sagamore Pkwy N (NW of): BUS382N,,40.42501884,-86.85927655,,,0,,America/Indiana/Indianapolis,,,0
+2439701,BUS793,,RRX on Union St (NE Corner): BUS793,,40.424946002852,-86.854744137841,,,0,,America/Indiana/Indianapolis,,,0
+2439702,BUS552SE,,36th St & Union St (SE Corner): BUS552SE,,40.424740292757,-86.850427991686,,,0,,America/Indiana/Indianapolis,,,0
+2439703,BUS813E,,36th St & Coleman Ct (North of): BUS813E,,40.422411530226,-86.850843407215,,,0,,America/Indiana/Indianapolis,,,0
+2439704,BUS411,,36th & South St (East Side North of): BUS411,,40.418172748945,-86.849881966878,,,0,,America/Indiana/Indianapolis,,,0
+2439705,BUS811,,Target on South St (@ 5th/3rd Bank): BUS811,,40.41775676,-86.84799384,,,0,,America/Indiana/Indianapolis,,,0
+2439706,BUS302,,South St & Executive Dr (West of): BUS302,,40.417747879461,-86.844121531845,,,0,,America/Indiana/Indianapolis,,,0
+2439707,BUS831,,South St & Creasy Ln (West of): BUS831,,40.41779968,-86.83968436,,,0,,America/Indiana/Indianapolis,,,0
+2439708,BUS816,,South St & Creasy Ln (Southeast of): BUS816,,40.4178332,-86.83792617,,,0,,America/Indiana/Indianapolis,,,0
+2439709,BUS806,,South St & Eastland Dr (West of): BUS806,,40.41786941,-86.8338358,,,0,,America/Indiana/Indianapolis,,,0
+2439710,BUS406,,Brinker St & South St: BUS406,,40.41789355,-86.82947989,,,0,,America/Indiana/Indianapolis,,,0
+2439711,BUS386,,South St & Red Cloud Trl (East of): BUS386,,40.41779834,-86.82459157,,,0,,America/Indiana/Indianapolis,,,0
+2439712,BUS277N,,SR 26 & Frontage Rd (NE Corner): BUS277N,,40.41772189,-86.81641083,,,0,,America/Indiana/Indianapolis,,,0
+2439713,BUS299,,Meijer Ct & Meijer Dr (NE Corner): BUS299,,40.416734431907,-86.813927216954,,,0,,America/Indiana/Indianapolis,,,0
+2439714,BUS257,,Meijer Store East (at Shelter): BUS257,,40.415413,-86.813868,,,0,,America/Indiana/Indianapolis,,,0
+2439715,BUS492,,Brown St & 4th St (NE Corner): BUS492,,40.421878228993,-86.89295075566,,,0,,America/Indiana/Indianapolis,,,0
+2439716,BUS410NE,,Brown St & 6th St (NE Corner): BUS410NE,,40.42192491,-86.89042907,,,0,,America/Indiana/Indianapolis,,,0
+2439717,BUS748,,Cincinnati St & 7th St (NE Corner): BUS748,,40.42193967,-86.88929986,,,0,,America/Indiana/Indianapolis,,,0
+2439718,BUS783NW,,9th St & Cincinnati St (NW Corner): BUS783NW,,40.422906160156,-86.886950663646,,,0,,America/Indiana/Indianapolis,,,0
+2439719,BUS367,,9th St & Union St (NW Corner): BUS367,,40.424870941238,-86.886996476091,,,0,,America/Indiana/Indianapolis,,,0
+2439720,BUS380NW,,Salem St & 9th St (NW Corner): BUS380NW,,40.425817895549,-86.887012934697,,,0,,America/Indiana/Indianapolis,,,0
+2439721,BUS292NW,,9th St & Hartford St (NW Corner): BUS292NW,,40.4277934045,-86.887072198193,,,0,,America/Indiana/Indianapolis,,,0
+2439722,BUS987NW,,9thSt & Roberts St (NW Corner): BUS987NW,,40.429850146458,-86.887147994399,,,0,,America/Indiana/Indianapolis,,,0
+2439723,BUS960,,TRW on 9th St: BUS960,,40.4314028293,-86.887172983724,,,0,,America/Indiana/Indianapolis,,,0
+2439724,BUS422E,,Canal Rd & 9th St (1A by Request): BUS422E,,40.433879091142,-86.887393113314,,,0,,America/Indiana/Indianapolis,,,0
+2439725,BUS143,,CityBus Offices - Canal Rd (1A by Request): BUS143,,40.429388150465,-86.891693436529,,,0,,America/Indiana/Indianapolis,,,0
+2439726,BUS422W,,Canal Rd & 9th St (1A by Request): BUS422W,,40.434099982409,-86.88753390192,,,0,,America/Indiana/Indianapolis,,,0
+2439727,BUS296,,Greenbush St & 12th St (North Side of):BUS296,,40.43213674917,-86.884125316655,,,0,,America/Indiana/Indianapolis,,,0
+2439728,BUS508NE,,Greenbush St & 14th St (NE Corner): BUS508NE,,40.432147157872,-86.882156948384,,,0,,America/Indiana/Indianapolis,,,0
+2439729,BUS750,,Greenbush St & 16th St (NE Corner): BUS750,,40.432146,-86.880166,,,0,,America/Indiana/Indianapolis,,,0
+2439730,BUS330NE,,Greenbush St & 18th St (NE Corner): BUS330NE,,40.43216693,-86.87728491,,,0,,America/Indiana/Indianapolis,,,0
+2439731,BUS230N,,Wabash Center on Greenbush St: BUS230N,,40.43221,-86.87345,,,0,,America/Indiana/Indianapolis,,,0
+2439732,BUS245NW,,Market Square (WEST) on Greenbush St: BUS245NW,,40.4322353742063,-86.870881325386,,,0,,America/Indiana/Indianapolis,,,1
+2439733,BUS721,,Greenbush St & Melbourne Rd (West of): BUS721,,40.432192906618,-86.868203380681,,,0,,America/Indiana/Indianapolis,,,0
+2439734,BUS278NE,,Greenbush St & Elmwood Ave (East of): BUS278NE,,40.432186421058,-86.865217483689,,,0,,America/Indiana/Indianapolis,,,0
+2439735,BUS781,,Greenbush St & 29th St (West of): BUS781,,40.432190160548,-86.862337960886,,,0,,America/Indiana/Indianapolis,,,0
+2439736,BUS231N,,Greenbush St & Sagamore Pkwy N (West of): BUS231N,,40.432194244846,-86.859253566841,,,0,,America/Indiana/Indianapolis,,,0
+2439737,BUS780,,Hemlock Rd & Greenbush St (NE Corner): BUS780,,40.432236442838,-86.855638670258,,,0,,America/Indiana/Indianapolis,,,0
+2439738,BUS526NE,,Chauncey Ct & Greenbush St (NE Corner): BUS526NE,,40.432284690231,-86.847296850114,,,0,,America/Indiana/Indianapolis,,,0
+2439739,BUS778,,Shenandoah Dr & Amherst Dr (SE Corner): BUS778,,40.431429316067,-86.844837509578,,,0,,America/Indiana/Indianapolis,,,0
+2439740,BUS051,,Shenandoah Dr at Munger Trail Crossing: BUS051,,40.428987614112,-86.844822925834,,,0,,America/Indiana/Indianapolis,,,0
+2439741,BUS757SE,,S Navarre Dr & Shenandoah (SE Corner): BUS757SE,,40.426297762643,-86.847093376288,,,0,,America/Indiana/Indianapolis,,,0
+2439742,BUS341,,Shenandoah Dr & Union St (SE Corner): BUS341,,40.424758932369,-86.847053334251,,,0,,America/Indiana/Indianapolis,,,0
+2439743,BUS920SE,,Claremont Ln & Shenandoah Dr(SE Corner): BUS920SE,,40.422956720287,-86.847042487451,,,0,,America/Indiana/Indianapolis,,,0
+2439744,BUS759E,,S Driftwood & Shenandoah Dr (SE Corner): BUS759E,,40.421442207166,-86.846308790852,,,0,,America/Indiana/Indianapolis,,,0
+2439745,BUS812,,Shenandoah Dr & Rome Dr (NE Corner): BUS812,,40.420648333636,-86.845808265411,,,0,,America/Indiana/Indianapolis,,,0
+2439746,BUS760,,Executive Dr & Rome Dr (NE Corner): BUS760,,40.420657441212,-86.843420235824,,,0,,America/Indiana/Indianapolis,,,0
+2439747,BUS777,,Culvers on Rome Dr (North Side): BUS777,,40.420836806263,-86.83970847075,,,0,,America/Indiana/Indianapolis,,,0
+2439748,BUS879,,"Creasy Ln & South St (North of, East Side): BUS879",,40.418417880568,-86.838863849836,,,0,,America/Indiana/Indianapolis,,,0
+2439749,BUS762,,The Pavilions & Creasy Ln: BUS762,,40.41609245,-86.83880325,,,0,,America/Indiana/Indianapolis,,,0
+2439750,BUS461,,Sam's Club on Creasy Ln: BUS461,,40.41412237,-86.83873217,,,0,,America/Indiana/Indianapolis,,,0
+2439751,BUS763E,,Fortune Dr & Creasy Ln (SE Corner): BUS763E,,40.411227460661,-86.838689775346,,,0,,America/Indiana/Indianapolis,,,0
+2439752,BUS539,,Stinger St & Creasy Ln (SE Corner): BUS539,,40.408942893862,-86.838636147147,,,0,,America/Indiana/Indianapolis,,,0
+2439753,BUS775NE,,Harper Dr & Creasy Ln (NE Corner): BUS775NE,,40.406395940185,-86.838461174443,,,0,,America/Indiana/Indianapolis,,,0
+2439754,BUS200N,,Harper Dr & Julia Ln (NW Corner): BUS200N,,40.406444198963,-86.834795719992,,,0,,America/Indiana/Indianapolis,,,0
+2439755,BUS765NE,,Julia Ln & Sickle Ct (NE Corner) : BUS765NE,,40.404809827177,-86.835198709108,,,0,,America/Indiana/Indianapolis,,,0
+2439756,BUS766E,,Sickle Ct & McCarty Ln (NE Corner): BUS766E,,40.403444,-86.834235,,,0,,America/Indiana/Indianapolis,,,0
+2439757,BUS773,,Burberry Place on Creasy Ln (SE Corner): BUS773,,40.400693122667,-86.838414212841,,,0,,America/Indiana/Indianapolis,,,0
+2439758,BUS681,,Creasy Ln & Amelia Ave (NE Corner): BUS681,,40.398691627789,-86.83836954901,,,0,,America/Indiana/Indianapolis,,,0
+2439759,BUS770SE,,Creasy Ct & Creasy Ln (SE Corner): BUS770SE,,40.396175702712,-86.838317476984,,,0,,America/Indiana/Indianapolis,,,0
+2439760,BUS992,,St. Elizabeth Hospital: BUS992,,40.394007,-86.836989,,,0,,America/Indiana/Indianapolis,,,0
+2439761,BUS923,,St Elizabeth Hospital on Creasy (SE Corner):BUS923,,40.392264844439,-86.838241195864,,,0,,America/Indiana/Indianapolis,,,0
+2439762,BUS772,,Creasy Ln & SR 38 (Northeast of): BUS772,,40.389618440841,-86.838359595349,,,0,,America/Indiana/Indianapolis,,,0
+2439763,BUS437E,,PayLess Supermarket on SR 38: BUS437E,,40.391669127499,-86.84469009696,,,0,,America/Indiana/Indianapolis,,,0
+2439764,BUS157,,Roundtable Dr & Shining Armor Ln (SW): BUS157,,40.480772346952,-86.931237166252,,,0,,America/Indiana/Indianapolis,,,0
+2439765,BUS628,,Roundtable Dr & Mason Dixon (SE Corner): BUS628,,40.480767832235,-86.934484234882,,,0,,America/Indiana/Indianapolis,,,0
+2439766,BUS110SE,,Mason Dixon Dr & Shining Armor Ln (SE):BUS110SE,,40.47924058225,-86.934509829828,,,0,,America/Indiana/Indianapolis,,,0
+2439767,BUS627,,Vicksburg Ln & Mason Dixon Dr (SW Corner): BUS627,,40.477728580172,-86.936341530284,,,0,,America/Indiana/Indianapolis,,,0
+2439768,BUS112SE,,Morehouse Rd & Mason Dixon Dr (SE Corner):BUS112SE,,40.4777218427,-86.938503597768,,,0,,America/Indiana/Indianapolis,,,0
+2439769,BUS631E,,Abnaki Dr & Morehouse Rd: BUS631E,,40.474680449881,-86.938776416925,,,0,,America/Indiana/Indianapolis,,,0
+2439770,BUS113NE,,Morehouse Rd & Ellison Dr (East Side): BUS113NE,,40.470915915114,-86.938804951805,,,0,,America/Indiana/Indianapolis,,,0
+2439771,BUS114E,,Trailside Flats on Morehouse (East): BUS114E,,40.469169229593,-86.938699879204,,,0,,America/Indiana/Indianapolis,,,0
+2439772,BUS115N,,Kalberer Rd & Morehouse Rd (NE Corner): BUS115N,,40.467828087758,-86.938553059379,,,0,,America/Indiana/Indianapolis,,,0
+2439773,BUS944N,,West View Apts on Kalberer Rd (North): BUS944N,,40.46787936692,-86.934755980666,,,0,,America/Indiana/Indianapolis,,,0
+2439774,BUS955,,Kent Ave @ Purdue Research Center: BUS955,,40.466684309977,-86.93168573018,,,0,,America/Indiana/Indianapolis,,,0
+2439775,BUS956,,Win Hentschel Blvd & MED Institute: BUS956,,40.465349081276,-86.929953200743,,,0,,America/Indiana/Indianapolis,,,0
+2439776,BUS957,,Mcclure Ave @ Kurz Tech Center: BUS957,,40.465221714639,-86.926961579365,,,0,,America/Indiana/Indianapolis,,,0
+2439777,BUS118,,Yeager Rd & Roxboro St (SE Corner): BUS118,,40.464817261866,-86.924450623445,,,0,,America/Indiana/Indianapolis,,,0
+2439778,BUS119,,Country Villa Apts on Yeager (SE Corner): BUS119,,40.461872720181,-86.924441944767,,,0,,America/Indiana/Indianapolis,,,0
+2439779,BUS218SE,,Yeager Rd & Cumberland Ave (SE Corner): BUS218SE,,40.460432711256,-86.924458508032,,,0,,America/Indiana/Indianapolis,,,0
+2439780,BUS626SE,,Montgomery St & Yeager Rd (SE Corner): BUS626SE,,40.458370784539,-86.924432001169,,,0,,America/Indiana/Indianapolis,,,0
+2439781,BUS100E,,Beau Jardin Apts on Yeager (SE Corner): BUS100E,,40.454559996735,-86.92443227896,,,0,,America/Indiana/Indianapolis,,,0
+2439782,BUS104N,,Anthrop Dr & Yeager Rd (NE Corner): BUS104N,,40.452059034365,-86.924278367223,,,0,,America/Indiana/Indianapolis,,,0
+2439783,BUS101NE,,Mayfair Village Apts on Sycamore Ln: BUS101NE,,40.452130201215,-86.921629583078,,,0,,America/Indiana/Indianapolis,,,0
+2439784,BUS624E,,Sycamore Ln & Carlisle Rd (SE Corner): BUS624E,,40.45029057434,-86.919402114195,,,0,,America/Indiana/Indianapolis,,,0
+2439785,BUS623SE,,Carlisle Rd & Windsor Dr (SE Corner): BUS623SE,,40.447852534595,-86.919435629867,,,0,,America/Indiana/Indianapolis,,,0
+2439786,BUS102NE,,Carlisle Rd & Lindberg Rd (North of): BUS102NE,,40.4461287303,-86.919151272549,,,0,,America/Indiana/Indianapolis,,,0
+2439787,BUS375SE,,Lindberg & Northwestern (East of): BUS375SE,,40.445911287797,-86.921029826145,,,0,,America/Indiana/Indianapolis,,,0
+2439788,BUS126,,Northwestern Ave & Elm Dr (SE Corner): BUS126,,40.44466,-86.920497,,,0,,America/Indiana/Indianapolis,,,0
+2439789,BUS632,,Garden St & Northwestern (SE Corner): BUS632,,40.442653,-86.91925,,,0,,America/Indiana/Indianapolis,,,0
+2439790,BUS901,,Hillcrest Rd & Northwestern (SE Corner): BUS901,,40.440340423417,-86.918016351039,,,0,,America/Indiana/Indianapolis,,,0
+2439791,BUS203,,Northwestern Ave & Northridge Dr(SE Corner):BUS203,,40.436784,-86.915423,,,0,,America/Indiana/Indianapolis,,,0
+2439792,BUS284,,Meridian St & Northwestern (SE Corner): BUS284,,40.4338755,-86.91505309,,,0,,America/Indiana/Indianapolis,,,0
+2439793,BUS105,,Northwestern Ave & Evergreen St(SE Corner): BUS105,,40.432267745922,-86.914804023285,,,0,,America/Indiana/Indianapolis,,,0
+2439794,BUS295,,Wang Hall on Northwestern (at Crosswalk): BUS295,,40.42938,-86.911712,,,0,,America/Indiana/Indianapolis,,,0
+2439795,BUS184,,Grissom Hall on Grant St (at Shelter): BUS184,,40.426352566902,-86.910290158543,,,0,,America/Indiana/Indianapolis,,,0
+2439796,BUS260,,Krannert Grad School: BUS260,,40.423955,-86.910898,,,0,,America/Indiana/Indianapolis,,,0
+2439797,BUS248,,Columbia St & 4th St (NE Corner): BUS248,,40.418278323215,-86.892913320137,,,0,,America/Indiana/Indianapolis,,,0
+2439798,BUS675,,Columbia St & 5th St (NE Corner): BUS675,,40.418286651233,-86.891686871148,,,0,,America/Indiana/Indianapolis,,,0
+2439799,BUS674,,Columbia St & 6th St (NE Corner): BUS674,,40.418284747973,-86.890479279494,,,0,,America/Indiana/Indianapolis,,,0
+2439800,BUS243N,,Columbia St & 7th St (NE Corner): BUS243N,,40.418286727655,-86.888487069208,,,0,,America/Indiana/Indianapolis,,,0
+2439801,BUS242,,Columbia St & 9th St (NE Corner): BUS242,,40.418292832953,-86.886627278532,,,0,,America/Indiana/Indianapolis,,,0
+2439802,BUS309,,Columbia St & 12th St (NE Corner): BUS309,,40.418293121923,-86.883707230657,,,0,,America/Indiana/Indianapolis,,,0
+2439803,BUS305,,Columbia St & 14th St (NE Corner): BUS305,,40.418300627834,-86.881341892962,,,0,,America/Indiana/Indianapolis,,,0
+2439804,BUS158,,Main St & South St (SE Corner): BUS158,,40.417195540683,-86.878340150809,,,0,,America/Indiana/Indianapolis,,,0
+2439806,BUS444NE,,Main St & Jackson St (North of): BUS444NE,,40.415719,-86.876699,,,0,,America/Indiana/Indianapolis,,,0
+2439807,BUS482SE,,Main St & Scott St (SE Corner): BUS482SE,,40.413745773916,-86.874439251347,,,0,,America/Indiana/Indianapolis,,,0
+2439809,BUS567,,Ford Hall on Stadium Ave: BUS567,,40.431352125777,-86.919746799148,,,0,,America/Indiana/Indianapolis,,,0
+2439810,BUS201,,Jischke Dr & Stadium Ave (SE Corner): BUS201,,40.43132069,-86.92145016,,,0,,America/Indiana/Indianapolis,,,0
+2439811,BUS362,,RSC on Jischke Dr: BUS362,,40.428831,-86.921538,,,0,,America/Indiana/Indianapolis,,,0
+2439812,BUS268E,,Copper Beach Klondike (on Cumberland Ave): BUS268E,,40.453042,-86.958841,,,0,,America/Indiana/Indianapolis,,,0
+2439813,BUS372,,Meijer Ct & Meijer Dr (SW Corner): BUS372,,40.416577045123,-86.814442328494,,,0,,America/Indiana/Indianapolis,,,0
+2439814,BUS277S,,Frontage Rd & SR 26 (SW Corner): BUS277S,,40.417409305594,-86.81696484719,,,0,,America/Indiana/Indianapolis,,,0
+2439815,BUS151,,Progress Dr & South St (SE Corner): BUS151,,40.417248,-86.824902,,,0,,America/Indiana/Indianapolis,,,0
+2439816,BUS503,,Walmart (East Lafayette): BUS503,,40.41386622,-86.82663675,,,0,,America/Indiana/Indianapolis,,,0
+2439817,BUS808,,Commerce Dr & Marketplace Dr (SW Corner): BUS808,,40.415263833878,-86.82708906205,,,0,,America/Indiana/Indianapolis,,,0
+2439818,BUS970,,Commerce Dr & Park East (SW Corner): BUS970,,40.415750598458,-86.829355205309,,,0,,America/Indiana/Indianapolis,,,0
+2439819,BUS969,,Commerce Dr & Fairington Ave (East of): BUS969,,40.415770821457,-86.831051626901,,,0,,America/Indiana/Indianapolis,,,0
+2439820,BUS193E,,South St & Creasy Ln (East of): BUS193E,,40.417497188921,-86.837900426342,,,0,,America/Indiana/Indianapolis,,,0
+2439821,BUS384,,South St & Executive Dr (SE Corner): BUS384,,40.41745099,-86.84392761,,,0,,America/Indiana/Indianapolis,,,0
+2439822,BUS475,,South St & 36th St (East of): BUS475,,40.41740271,-86.84930812,,,0,,America/Indiana/Indianapolis,,,0
+2439823,BUS405,,36th & South St (North of Laf Animal): BUS405,,40.418341636405,-86.850016542738,,,0,,America/Indiana/Indianapolis,,,0
+2439824,BUS813W,,36th St & Coleman Ct (NW Corner @ Bench): BUS813W,,40.422430692363,-86.850988558133,,,0,,America/Indiana/Indianapolis,,,0
+2439825,BUS552SW,,Union St & 36th St (SW Corner): BUS552SW,,40.42480829,-86.85089733,,,0,,America/Indiana/Indianapolis,,,0
+2439826,BUS971,,RRX on Union St (SW Corner): BUS971,,40.42478549,-86.85553487,,,0,,America/Indiana/Indianapolis,,,0
+2439828,BUS196E,,Earl & Union (East Side South of): BUS196E,,40.424389445587,-86.860523919521,,,0,,America/Indiana/Indianapolis,,,0
+2439829,BUS507E,,Portledge Commons Apts on Earl Ave: BUS507E,,40.421752,-86.860458,,,0,,America/Indiana/Indianapolis,,,0
+2439830,BUS459SE,,Earl Ave & Cason St (SE Corner): BUS459SE,,40.420434694023,-86.86045398908,,,0,,America/Indiana/Indianapolis,,,0
+2439831,BUS128,,Ferry St & 31st St (SW Corner): BUS128,,40.419022762088,-86.861770297055,,,0,,America/Indiana/Indianapolis,,,0
+2439832,BUS116S,,Ferry St & 28th St (SW Corner): BUS116S,,40.4189949764,-86.865416493761,,,0,,America/Indiana/Indianapolis,,,0
+2439833,BUS244,,Ferry St & 26th St (SW Corner): BUS244,,40.418963402089,-86.867786058344,,,0,,America/Indiana/Indianapolis,,,0
+2439834,BUS545S,,Ferry St & 23rd St (East of): BUS545S,,40.418925038976,-86.870926356378,,,0,,America/Indiana/Indianapolis,,,0
+2439835,BUS548SW,,Ferry St & 21st St (SW Corner): BUS548SW,,40.418875661028,-86.873714986886,,,0,,America/Indiana/Indianapolis,,,0
+2439836,BUS280S,,Ferry St & 19th St (SW Corner): BUS280S,,40.418831958008,-86.876060480001,,,0,,America/Indiana/Indianapolis,,,0
+2439837,BUS798SW,,Ferry St & Asher St (SW Corner): BUS798SW,,40.419265287974,-86.879141290626,,,0,,America/Indiana/Indianapolis,,,0
+2439838,BUS797S,,Ferry St & Perrin Ave (SW Corner): BUS797S,,40.419997671392,-86.882021957593,,,0,,America/Indiana/Indianapolis,,,0
+2439839,BUS796S,,Ferry St & Erie St (SW Corner): BUS796S,,40.419979035296,-86.88400929919,,,0,,America/Indiana/Indianapolis,,,0
+2439840,BUS794S,,Ferry St & 10th St (South Side): BUS794S,,40.419969401824,-86.886003925577,,,0,,America/Indiana/Indianapolis,,,0
+2439841,BUS532SW,,Ferry St & 8th St (SW Corner): BUS532SW,,40.420010626541,-86.888508430561,,,0,,America/Indiana/Indianapolis,,,0
+2439842,BUS534S,,Ferry St & 6th St (SW Corner): BUS534S,,40.419988031149,-86.890791571292,,,0,,America/Indiana/Indianapolis,,,0
+2439843,BUS549S,,Fowler House Apts on Ferry St (South): BUS549S,,40.419978761344,-86.892439831843,,,0,,America/Indiana/Indianapolis,,,0
+2439844,BUS502,,Art Museum on 9th St: BUS502,,40.416422,-86.88664,,,0,,America/Indiana/Indianapolis,,,0
+2439845,BUS918,,Prospect Hill Apts on 18th: BUS918,,40.414034,-86.886556,,,0,,America/Indiana/Indianapolis,,,0
+2439846,BUS279,,9th St & State St (SE Corner): BUS279,,40.412692,-86.886503,,,0,,America/Indiana/Indianapolis,,,0
+2439847,BUS575,,9th St & Kossuth St (South of): BUS575,,40.409628,-86.886396,,,0,,America/Indiana/Indianapolis,,,0
+2439848,BUS697,,9th St & Central Ave (SE Corner): BUS697,,40.40624,-86.886257,,,0,,America/Indiana/Indianapolis,,,0
+2439849,BUS528,,9th St & King St (SE Corner): BUS527,,40.404428135926,-86.886178546297,,,0,,America/Indiana/Indianapolis,,,0
+2439850,BUS241,,Logan Ave & 9th St (NE Corner): BUS241,,40.402644,-86.885609,,,0,,America/Indiana/Indianapolis,,,0
+2439851,BUS544NE,,Logan Ave & 14th St (NE Corner): BUS544NE,,40.402670616423,-86.881265248081,,,0,,America/Indiana/Indianapolis,,,0
+2439852,BUS327NE,,Logan Ave & El Prado Ave (NE Corner): BUS327NE,,40.402690965672,-86.879280550795,,,0,,America/Indiana/Indianapolis,,,0
+2439853,BUS986N,,Logan Ave & 18th St (West of): BUS986N,,40.402712315529,-86.877147312088,,,0,,America/Indiana/Indianapolis,,,0
+2439854,BUS198,,18th St & JR Hiatt (North of Intersection): BUS198,,40.397783336074,-86.876431752398,,,0,,America/Indiana/Indianapolis,,,0
+2439855,BUS738,,18th St & Iroquois Tr (SE Corner): BUS738,,40.392121777642,-86.876313176008,,,0,,America/Indiana/Indianapolis,,,0
+2439856,BUS776,,Beck Ln & 18th St (West of): BUS776,,40.3880041774678,-86.8774681130096,,,0,,America/Indiana/Indianapolis,,,0
+2439857,BUS682S,,Edgelea School on Beck Ln (West Drive): BUS682S,,40.387996051701,-86.879306187232,,,0,,America/Indiana/Indianapolis,,,0
+2439858,BUS553,,Circle Pines on David Ross Rd (NW Corner): BUS553,,40.435292997929,-86.92480569475,,,0,,America/Indiana/Indianapolis,,,0
+2439859,BUS554E,,Alpha Chi on David Ross Rd (East): BUS554E,,40.434385777422,-86.92552289724,,,0,,America/Indiana/Indianapolis,,,0
+2439860,BUS562N,,Theta Chi on Tower Dr (North): BUS562N,,40.433293820571,-86.926229410141,,,0,,America/Indiana/Indianapolis,,,0
+2439861,BUS472N,,Hilltop Dr & Tower Dr (NE Corner): BUS472N,,40.433268799371,-86.923135394824,,,0,,America/Indiana/Indianapolis,,,0
+2439862,BUS509NE,,Jischke Dr & Tower Dr (NE Corner): BUS509NE,,40.433045287466,-86.921426038832,,,0,,America/Indiana/Indianapolis,,,0
+2439863,BUS213,,Steven Beering Dr & Tower Dr (South of): BUS213 ,,40.432681028529,-86.919124454421,,,0,,America/Indiana/Indianapolis,,,0
+2439864,BUS800,,Russell St & 6th St (SE Corner): BUS800,,40.43036344909,-86.919068102649,,,0,,America/Indiana/Indianapolis,,,0
+2439865,BUS810,,Russell St & 4th St (SE Corner): BUS810,,40.4281744875498,-86.9190267002737,,,0,,America/Indiana/Indianapolis,,,0
+2439866,BUS805,,Russell St & 2nd St (NE Corner): BUS805,,40.4265483399907,-86.9190742360509,,,0,,America/Indiana/Indianapolis,,,0
+2439868,BUS169,,Northwestern Ave & Chelsea Rd (West Side): BUS169,,40.43469491,-86.91540849,,,0,,America/Indiana/Indianapolis,,,0
+2439869,BUS431,,Cherry Ln & Northwestern Ave (South of): BUS431,,40.438373,-86.917026,,,0,,America/Indiana/Indianapolis,,,0
+2439870,BUS476,,Carrolton Blvd & Northwestern (NW Corner): BUS476,,40.441840670393,-86.919137431171,,,0,,America/Indiana/Indianapolis,,,0
+2439871,BUS629,,Garden St & Northwestern (NW Corner): BUS629,,40.442823,-86.919566,,,0,,America/Indiana/Indianapolis,,,0
+2439872,BUS375SW,,Northwestern Ave & Lindberg Rd (SW of): BUS375SW,,40.445642164448,-86.921554671959,,,0,,America/Indiana/Indianapolis,,,0
+2439873,BUS952,,Lindberg & Northwestern (North East of): BUS952,,40.446040629133,-86.920942338409,,,0,,America/Indiana/Indianapolis,,,0
+2439874,BUS102NW,,Carlisle Rd & Lindberg Rd (NW Corner): BUS102NW,,40.445985995235,-86.919466653507,,,0,,America/Indiana/Indianapolis,,,0
+2439875,BUS623NW,,Carlisle Rd & Windsor Dr (NW Corner): BUS623NW,,40.448067783288,-86.919613085287,,,0,,America/Indiana/Indianapolis,,,0
+2439876,BUS624W,,Sycamore Ln & Carlisle Rd (West of): BUS624W,,40.450495265371,-86.919573014334,,,0,,America/Indiana/Indianapolis,,,0
+2439877,BUS101SW,,Mayfair Village Apts on Sycamore Ln: BUS101SW,,40.452050472334,-86.921772525024,,,0,,America/Indiana/Indianapolis,,,0
+2439878,BUS104S,,Yeager Rd & Anthrop Dr (at Shelter): BUS104S,,40.451906149615,-86.924129961943,,,0,,America/Indiana/Indianapolis,,,0
+2439879,BUS100W,,Beau Jardin Apts on Yeager (at Shelter): BUS100W,,40.454907938316,-86.924620363704,,,0,,America/Indiana/Indianapolis,,,0
+2439880,BUS626NW,,Montgomery St & Yeager Rd (NW Corner): BUS626NW,,40.458866331592,-86.924631878507,,,0,,America/Indiana/Indianapolis,,,0
+2439881,BUS218NW,,Yeager Rd & Cumberland Ave (NW Corner): BUS218NW,,40.46100724444,-86.92463173329,,,0,,America/Indiana/Indianapolis,,,0
+2439882,BUS129,,Peppermill Apts on Yeager Rd (NW Corner): BUS129,,40.461851405854,-86.924675755412,,,0,,America/Indiana/Indianapolis,,,0
+2439883,BUS117,,Yeager Rd & McClure Ave (SW Corner): BUS117,,40.464758557214,-86.924672897361,,,0,,America/Indiana/Indianapolis,,,0
+2439884,BUS048,,Mcclure Ave @ Kurz Tech Center: BUS048,,40.465076665992,-86.927078930167,,,0,,America/Indiana/Indianapolis,,,0
+2439885,BUS047,,Win Hentschel Blvd & MED Institute: BUS047,,40.46520400785,-86.930277281551,,,0,,America/Indiana/Indianapolis,,,0
+2439886,BUS046,,Kent Ave @ Purdue Research Center: BUS046,,40.466147522875,-86.931883605946,,,0,,America/Indiana/Indianapolis,,,0
+2439887,BUS945SW,,Kent Ave & Kalberer Rd (SW Corner): BUS945SW,,40.46772364,-86.93193626,,,0,,America/Indiana/Indianapolis,,,0
+2439888,BUS944S,,West View Apts on Kalberer Rd (South): BUS944S,,40.467774677309,-86.934994276245,,,0,,America/Indiana/Indianapolis,,,0
+2439889,BUS115S,,Kalberer Rd & Morehouse Rd (SE Corner): BUS115S,,40.467730014154,-86.937891673379,,,0,,America/Indiana/Indianapolis,,,0
+2439890,BUS114W,,Trailside Flats on Morehouse (West): BUS114W,,40.469203527489,-86.938814075161,,,0,,America/Indiana/Indianapolis,,,0
+2439891,BUS113NW,,Morehouse Rd & Ellison Dr (West Side): BUS113NW,,40.47087882507,-86.939030977419,,,0,,America/Indiana/Indianapolis,,,0
+2439892,BUS631W,,Abnaki Dr & Morehouse Rd: BUS631W,,40.474572404637,-86.939071347454,,,0,,America/Indiana/Indianapolis,,,0
+2439893,BUS112NE,,Mason Dixon Dr & Morehouse Rd (NE Corner):BUS112NE,,40.47783622247,-86.938699137605,,,0,,America/Indiana/Indianapolis,,,0
+2439894,BUS630,,Military Ct & Mason Dixon Dr (NE Corner): BUS630,,40.477834717921,-86.936524728125,,,0,,America/Indiana/Indianapolis,,,0
+2439895,BUS110NE,,Shining Armor Ln & Mason Dixon Dr (NE): BUS110NE,,40.479434825119,-86.934391217125,,,0,,America/Indiana/Indianapolis,,,0
+2439896,BUS941SE,,Creasy Ln & Bonlou (SE Corner): BUS941SE,,40.387023152731,-86.840154693045,,,0,,America/Indiana/Indianapolis,,,0
+2439897,BUS142S,,Ivy Tech on Creasy Ln (at Shelter): BUS142S,,40.385448104084,-86.841398350826,,,0,,America/Indiana/Indianapolis,,,0
+2439898,BUS966,,Griffin Hall on Creasy Ln: BUS966,,40.383474779837,-86.842981113455,,,0,,America/Indiana/Indianapolis,,,0
+2439899,BUS711S,,Brady Ln & Imperial Pkwy (SW Corner): BUS711S,,40.381865511915,-86.849277222974,,,0,,America/Indiana/Indianapolis,,,0
+2439900,BUS712,,Brady Ln & Reagan Dr (SW Corner): BUS712,,40.381799656518,-86.855886384796,,,0,,America/Indiana/Indianapolis,,,0
+2439901,BUS710S,,Village Pantry on Brady Ln (South Side): BUS710S,,40.381767146777,-86.858915616318,,,0,,America/Indiana/Indianapolis,,,0
+2439902,BUS301S,,Pheasant Run Apts on Brady Ln (South): BUS301S,,40.381758282935,-86.860790159929,,,0,,America/Indiana/Indianapolis,,,0
+2439903,BUS708,,Brady Ln & Winter St (SW Corner): BUS708,,40.381722,-86.8651,,,0,,America/Indiana/Indianapolis,,,0
+2439904,BUS181,,RRX on Brady Ln (SW Corner): BUS181,,40.381701,-86.866886,,,0,,America/Indiana/Indianapolis,,,0
+2439905,BUS449S,,Brady Ln &  Commanche Tr (Southeast of): BUS449S,,40.3816747263,-86.868935218263,,,0,,America/Indiana/Indianapolis,,,0
+2439906,BUS707S,,Brady Ln & Pipers Glen Dr (SW Corner): BUS707S,,40.381676357071,-86.872613363463,,,0,,America/Indiana/Indianapolis,,,0
+2439907,BUS354,,Brady Ln & 18th St (East of): BUS354,,40.381643329898,-86.875516759579,,,0,,America/Indiana/Indianapolis,,,0
+2439908,BUS865,,18th St & Eastway St (NW Corner): BUS865,,40.383627490241,-86.876324125832,,,0,,America/Indiana/Indianapolis,,,0
+2439909,BUS807,,Manitou Dr & 18th St (NW Corner): BUS807,,40.385509531646,-86.876368076957,,,0,,America/Indiana/Indianapolis,,,0
+2439910,BUS155,,Edgelea Elementary School on 18th St: BUS155,,40.387608973963,-86.876408930582,,,0,,America/Indiana/Indianapolis,,,0
+2439911,BUS344,,Beck Ln and Cayuga Tr (NE Corner): BUS344,,40.38816395,-86.87507611,,,0,,America/Indiana/Indianapolis,,,0
+2439912,BUS416,,Summerfield Dr & Beck Ln (NW Corner): BUS416,,40.388222490142,-86.871150477266,,,0,,America/Indiana/Indianapolis,,,0
+2439913,BUS730,,Summerfield Dr & Hiawatha Ln (NW Corner): BUS730,,40.389661754215,-86.871173393477,,,0,,America/Indiana/Indianapolis,,,0
+2439914,BUS428S,,Iroquois Tr & Summerfield Dr (SW Corner): BUS428S,,40.391823,-86.871297,,,0,,America/Indiana/Indianapolis,,,0
+2439915,BUS729,,Osage Dr & Iroquois Tr (NW Corner): BUS729,,40.39203169,-86.87232148,,,0,,America/Indiana/Indianapolis,,,0
+2439916,BUS409,,Shoshone Dr & Osage Dr (SW Corner): BUS409,,40.393386,-86.872178,,,0,,America/Indiana/Indianapolis,,,0
+2439917,BUS469S,,Georgetown Apts on Shoshone Dr (South): BUS469S,,40.393377282064,-86.875058695169,,,0,,America/Indiana/Indianapolis,,,0
+2439918,BUS963,,18th St & Meadow Dr (South of): BUS963,,40.394406221324,-86.8767103004816,,,0,,America/Indiana/Indianapolis,,,0
+2439919,BUS331,,Lafayette Square on Teal Rd (NE Corner): BUS331,,40.39551186,-86.87041175,,,0,,America/Indiana/Indianapolis,,,0
+2439920,BUS311,,Rural King on 26th St (at Shelter): BUS311,,40.39678,-86.86699,,,0,,America/Indiana/Indianapolis,,,0
+2439921,BUS414,,Gregory Ave & 26th St (NW Corner): BUS414,,40.39905372,-86.86703887,,,0,,America/Indiana/Indianapolis,,,0
+2439922,BUS378SW,,State St & Earl Ave (SE Corner): BUS378SW,,40.401585,-86.869804,,,0,,America/Indiana/Indianapolis,,,0
+2439923,BUS727,,State St & 22nd St (SW Corner): BUS727,,40.402747,-86.871613,,,0,,America/Indiana/Indianapolis,,,0
+2439924,BUS726S,,State St & 20th St (SW Corner): BUS726S,,40.404733829519,-86.874513335349,,,0,,America/Indiana/Indianapolis,,,0
+2439925,BUS256S,,State St & 18th St (East of): BUS256S,,40.40610524,-86.87649902,,,0,,America/Indiana/Indianapolis,,,0
+2439926,BUS725W,,18th St & Adams St (NW Corner): BUS725W,,40.408290911752,-86.87692828114,,,0,,America/Indiana/Indianapolis,,,0
+2439927,BUS724,,18th St & Congress St (NW Corner): BUS724,,40.411471838789,-86.877208228452,,,0,,America/Indiana/Indianapolis,,,0
+2439928,BUS940,,18th St & Larue St (South of): BUS940,,40.413205,-86.8772326,,,0,,America/Indiana/Indianapolis,,,0
+2439929,BUS723,,18th St & Center St (North of): BUS723,,40.414703893777,-86.877269285162,,,0,,America/Indiana/Indianapolis,,,0
+2439930,BUS740,,18th St & Everett St (SE Corner): BUS740,,40.41314060353,-86.877041781281,,,0,,America/Indiana/Indianapolis,,,0
+2439931,BUS662,,18th St & Congress St (NE Corner): BUS662,,40.410945190759,-86.877118277453,,,0,,America/Indiana/Indianapolis,,,0
+2439932,BUS725E,,18th St & Adams St (SE Corner): BUS725E,,40.408345,-86.876771,,,0,,America/Indiana/Indianapolis,,,0
+2439933,BUS256N,,State St & 18th St (NE Corner): BUS256N,,40.406300868492,-86.876543796137,,,0,,America/Indiana/Indianapolis,,,0
+2439934,BUS726N,,State St & 20th St (NE Corner): BUS726N,,40.404677530438,-86.874126269061,,,0,,America/Indiana/Indianapolis,,,0
+2439935,BUS378NW,,State St & Earl Ave (West of): BUS378NW,,40.40188747,-86.86996516,,,0,,America/Indiana/Indianapolis,,,0
+2439936,BUS467,,22nd St & Teal Rd (North of): BUS467,,40.396322458049,-86.871601580117,,,0,,America/Indiana/Indianapolis,,,0
+2439937,BUS420,,18th St & Teal Rd (SE Corner): BUS420,,40.395122964476,-86.876385075189,,,0,,America/Indiana/Indianapolis,,,0
+2439938,BUS739,,18th St & Shoshone Dr (NE Corner): BUS739,,40.393474024281,-86.876259551826,,,0,,America/Indiana/Indianapolis,,,0
+2439939,BUS469N,,Georgetown Apts on Shoshone Dr (North): BUS469N,,40.393483427466,-86.873537641575,,,0,,America/Indiana/Indianapolis,,,0
+2439940,BUS315N,,Shoshone Dr & Osage Dr (West of): BUS315N,,40.39349,-86.872436,,,0,,America/Indiana/Indianapolis,,,0
+2439941,BUS428N,,Iroquois Tr & Summerfield Dr (West of): BUS428N,,40.391899,-86.871595,,,0,,America/Indiana/Indianapolis,,,0
+2439942,BUS942,,Summerfield Dr & Ottawa Dr (SE Corner): BUS942,,40.390973258362,-86.871041789665,,,0,,America/Indiana/Indianapolis,,,0
+2439943,BUS737,,Summerfield Dr & Maumee Pl (SE Corner): BUS737,,40.388777370437,-86.87100417381,,,0,,America/Indiana/Indianapolis,,,0
+2439944,BUS731E,,Commanche Tr & Beck Ln (SE Corner): BUS731E,,40.388013302225,-86.869904586122,,,0,,America/Indiana/Indianapolis,,,0
+2439945,BUS736,,Commanche Tr & Yuma Ave (SE Corner): BUS736,,40.38475352,-86.86949711,,,0,,America/Indiana/Indianapolis,,,0
+2439946,BUS408,,Main St & 21st St (Northeast of) : BUS408,,40.412383721345,-86.872949592434,,,0,,America/Indiana/Indianapolis,,,0
+2439947,BUS191,,Frozen Custard on Main St (at Shelter): BUS191,,40.410926091797,-86.871298155897,,,0,,America/Indiana/Indianapolis,,,0
+2439948,BUS216E,,Main St & 24th St (North of): BUS216E,,40.409462731718,-86.869670679307,,,0,,America/Indiana/Indianapolis,,,0
+2439949,BUS663NE,,Main St & S 25th St (NE Corner): BUS663NE,,40.4077727847,-86.86741347418,,,0,,America/Indiana/Indianapolis,,,0
+2439950,BUS664NW,,Main St & S 28th St (NW Corner): BUS664NW,,40.40632787,-86.86540674,,,0,,America/Indiana/Indianapolis,,,0
+2439951,BUS531NE,,Main St & Earl Ave (Northeast of) : BUS531NE,,40.40514066032,-86.863691936359,,,0,,America/Indiana/Indianapolis,,,0
+2439952,BUS506,,Main St & McCarty Ln (Southeast of): BUS506,,40.402566308184,-86.860068936937,,,0,,America/Indiana/Indianapolis,,,0
+2439953,BUS678,,Main St & Sagamore Pkwy S (NW Corner): BUS678,,40.40147039,-86.85856711,,,0,,America/Indiana/Indianapolis,,,0
+2439954,BUS946,,SR 38 @ Golden Lion: BUS946,,40.39962,-86.85582,,,0,,America/Indiana/Indianapolis,,,0
+2439955,BUS462,,SR25/38 @ Lafayette Marketplace: BUS462,,40.397379132739,-86.852709139665,,,0,,America/Indiana/Indianapolis,,,0
+2439956,BUS677,,"SR 38/25 & Kingsway Dr (North of, East): BUS677",,40.394589208031,-86.848787034072,,,0,,America/Indiana/Indianapolis,,,0
+2439957,BUS671,,Wendy's at Tippecanoe Mall (North Side): BUS671,,40.393282631396,-86.848486892039,,,0,,America/Indiana/Indianapolis,,,0
+2439958,BUS676,,Sears at Tippecanoe Mall: BUS676,,40.391797,-86.848495,,,0,,America/Indiana/Indianapolis,,,0
+2439959,BUS373,,Tippecanoe Mall Entrance E: BUS373,,40.391557,-86.849444,,,0,,America/Indiana/Indianapolis,,,0
+2439960,BUS982,,IU Arnett Hospital: BUS982,,40.401044338724,-86.804833883377,,,0,,America/Indiana/Indianapolis,,,0
+2439961,BUS625,,Park East Blvd & Retail Dr (SW Corner): BUS625,,40.404334265946,-86.827942073193,,,0,,America/Indiana/Indianapolis,,,0
+2439962,BUS615,,Mezzanine Dr & Park East Blvd (SW Corner): BUS615,,40.406953801785,-86.829189172999,,,0,,America/Indiana/Indianapolis,,,0
+2439963,BUS601,,Arnett Clinic on Mezzanine Dr: BUS601,,40.405970999997,-86.832595590519,,,0,,America/Indiana/Indianapolis,,,0
+2439964,BUS997,,Mezzanine Dr & McCarty Ln (Northwest of): BUS997,,40.403751,-86.832182,,,0,,America/Indiana/Indianapolis,,,0
+2439965,BUS996,,McCarty Ln & Burberry Dr (SW Corner): BUS996,,40.402905979031,-86.834563754141,,,0,,America/Indiana/Indianapolis,,,0
+2439966,BUS895,,McCarty Ln & Emerald Pine Ct: BUS895,,40.40289732,-86.83693375,,,0,,America/Indiana/Indianapolis,,,0
+2439967,BUS995,,McCarty Ln & Landmark Dr (South of): BUS995,,40.402845974361,-86.841530171428,,,0,,America/Indiana/Indianapolis,,,0
+2439968,BUS994,,McCarty Ln & Kepner Dr (SW Corner): BUS994,,40.402861378287,-86.844824285322,,,0,,America/Indiana/Indianapolis,,,0
+2439969,BUS120,,McCarty Ln & Industrial Dr (SW Corner): BUS120,,40.40279003,-86.85189511,,,0,,America/Indiana/Indianapolis,,,0
+2439970,BUS298,,McCarty Ln & Sagamore Pkwy S (East of): BUS298,,40.402724952496,-86.856670867879,,,0,,America/Indiana/Indianapolis,,,0
+2439979,BUS967,,South St & Thompson St (SW Corner): BUS967,,40.417363648459,-86.871545828598,,,0,,America/Indiana/Indianapolis,,,0
+2439980,BUS962,,South St & Douglas St (SW Corner): BUS962,,40.41731103777,-86.875579185427,,,0,,America/Indiana/Indianapolis,,,0
+2439981,BUS206,,South St & 14th St (SW Corner): BUS206,,40.417282418692,-86.881918261175,,,0,,America/Indiana/Indianapolis,,,0
+2439982,BUS661,,South St & McGrath Ave (West of): BUS661,,40.417291413489,-86.883516678169,,,0,,America/Indiana/Indianapolis,,,0
+2439983,BUS659,,South St & 10th St (West of): BUS659,,40.41728737,-86.88618314,,,0,,America/Indiana/Indianapolis,,,0
+2439984,BUS351,,Tippecanoe Co Public Library on South St: BUS351,,40.41726458,-86.88943397,,,0,,America/Indiana/Indianapolis,,,0
+2439985,BUS329,,South St & 5th St (SW Corner): BUS329,,40.41726189,-86.89201828,,,0,,America/Indiana/Indianapolis,,,0
+2439986,BUS265,,South St & 4th St (SW Corner): BUS265,,40.41725787,-86.89330574,,,0,,America/Indiana/Indianapolis,,,0
+2439987,BUS215,,CityBus Center: BUS215,,40.42069378,-86.89489093,,,0,,America/Indiana/Indianapolis,,,0
+2440172,BUS486S,,3rd & University: BUS486S,,40.427208841408,-86.916795157713,,,0,,America/Indiana/Indianapolis,,,0
+2440173,BUS332N,,Black Cultural Center on 3rd: BUS332N,,40.427355895285,-86.919803038991,,,0,,America/Indiana/Indianapolis,,,0
+2440684,BUS968,,McCarty Ln & Mezzannine,,40.403146442766,-86.831893560226,,,0,,America/Indiana/Indianapolis,,,0
+2440698,BUS287,,2nd St & Columbia (NW Corner): BUS287,,40.4182756119298,-86.8955757803156,,,0,,America/Indiana/Indianapolis,,,0
+2440701,BUS188,,2nd St & Main St (SE Corner): BUS188,,40.419008808164,-86.895380802006,,,0,,America/Indiana/Indianapolis,,,0
+2440704,BUS166,,State Street Office Facility: BUS166,,40.424219971074,-86.934786261258,,,0,,America/Indiana/Indianapolis,,,0
+2454711,BUS326,,S Chauncey Ave & Wood St (SE Corner): BUS326,,40.421958866474,-86.907482494479,,,0,,America/Indiana/Indianapolis,,,0
+2454713,BUS898,,First Street Towers on State St: BUS898,,40.425277320506,-86.924510906181,,,0,,America/Indiana/Indianapolis,,,0
+2454715,TEMP06,,Northwestern Ave & Cherry Lane (NW Corner): TEMP06,,40.439085906227,-86.917611505431,,,0,,America/Indiana/Indianapolis,,,0
+2454717,TEMP584SW,,1st St & Jischke Dr (SW Corner): TEMP584SW,,40.425244400557,-86.922181613809,,,0,,America/Indiana/Indianapolis,,,0
+2455808,BUS701,,Poland Hill Rd and Beck Ln (South of),,40.3872000425055,-86.8951184900308,,,0,,America/Indiana/Indianapolis,,,0
+2455809,BUS214,,Old Romney Rd and US52/ SR25 (NE Corner),,40.3892984925685,-86.9126466262516,,,0,,America/Indiana/Indianapolis,,,0
+2456505,BUS312,,The Quarters Clubhouse,,40.4480276373096,-86.9444426402904,,,0,,America/Indiana/Indianapolis,,,1
+2465990,BUS419,,Rolls Royce Aerospace Building,,40.424123649914,-86.9403834131188,,,0,,America/Indiana/Indianapolis,,,0
+2502258,BUS314,,The Quarters on McCormick,,40.4476752753631,-86.9451635102296,,,0,,America/Indiana/Indianapolis,,,0
+2504950,TEMP04,,Russell & 6th ,,40.4305127780055,-86.9192522665964,,,0,,America/Indiana/Indianapolis,,,0
+2505164,BUS160,,The Tick Tock Tavern,,40.4367280358263,-86.8864540543223,,,0,,America/Indiana/Indianapolis,,,0
+2506125,BUS334NE,,Old US231 & Elston Rd (South Of),,40.3909236013366,-86.9039764608608,,,0,,America/Indiana/Indianapolis,,,0
+2506126,BUS350-2,,Payless on Beck Ln (South Side),,40.3877870508647,-86.9022099745594,,,0,,America/Indiana/Indianapolis,,,0
+2506127,BUS350-3,,Beck Ln & Poland Hill Rd,,40.3878132590245,-86.8955029631561,,,0,,America/Indiana/Indianapolis,,,0
+2506128,BUS350-4,,Poland Hill & Matterhorn Pl  (NW Corner),,40.385108211953,-86.8953261972414,,,0,,America/Indiana/Indianapolis,,,0
+2506129,BUS350-5,,18th & Eastway (SE Corner),,40.3834106825912,-86.8760579128837,,,0,,America/Indiana/Indianapolis,,,0
+2506130,BUS350-6,,18th & Manitou (SE Corner),,40.385299494689,-86.8760874230614,,,0,,America/Indiana/Indianapolis,,,0
+2506131,BUS350-7,,18th & Beck Ln (NE Corner),,40.3877871873012,-86.8762799467975,,,0,,America/Indiana/Indianapolis,,,0
+2506132,BUS350-8,,Teal Rd & Summerfield,,40.39535811789,-86.8712103775882,,,0,,America/Indiana/Indianapolis,,,0
+2506133,BUS350-9,,Teal Rd & Sequoya Dr,,40.3953981001581,-86.8669694759336,,,0,,America/Indiana/Indianapolis,,,0
+2506134,BUS350-10,,Teal Rd & 30th St,,40.3954247118995,-86.8623042657994,,,0,,America/Indiana/Indianapolis,,,0
+2506135,BUS350-11,,Sherwin-Williams on Concord Rd,,40.3940727038946,-86.8575703730304,,,0,,America/Indiana/Indianapolis,,,0
+2506136,BUS350-12,,Ice Cream Specialties on Concord (West Side),,40.3910603079541,-86.8574216042819,,,0,,America/Indiana/Indianapolis,,,0
+2506137,BUS350-13,,Bay Pointe Apts on Concord (West Side),,40.384189719927,-86.8574416293172,,,0,,America/Indiana/Indianapolis,,,0
+2506139,BUS350-14,,Concord & Olympia (NW Corner),,40.3770061335645,-86.8573711330844,,,0,,America/Indiana/Indianapolis,,,0
+2506141,BUS350-15,,Hanson Logistics on Concord (West Side),,40.3738753333425,-86.8573389194706,,,0,,America/Indiana/Indianapolis,,,0
+2506143,BUS350-16,,Concord Rd & Daugherty Dr,,40.3689451831676,-86.8573093157229,,,0,,America/Indiana/Indianapolis,,,0
+2506145,BUS350-18,,Wabash National South Plant,,40.3676998542392,-86.8444942349574,,,0,,America/Indiana/Indianapolis,,,0
+2506146,BUS350-19,,Concord Rd & Fairfield Ct,,40.3679968809135,-86.8569486815552,,,0,,America/Indiana/Indianapolis,,,0
+2506147,BUS350-20,,Hanson Logistics on Concord Rd (East Side),,40.3739474020614,-86.8570778726456,,,0,,America/Indiana/Indianapolis,,,0
+2506148,BUS350-21,,Concord Rd & Olympia (East Side),,40.3768397168267,-86.8570525253693,,,0,,America/Indiana/Indianapolis,,,0
+2506149,BUS350-22,,Bay Pointe Apts (East Side),,40.3839900180905,-86.8572072557225,,,0,,America/Indiana/Indianapolis,,,0
+2506150,BUS350-23,,Ice Cream Specialties on Concord (East Side),,40.3919045547144,-86.8588553557274,,,0,,America/Indiana/Indianapolis,,,0
+2506151,BUS350-24,,30th & Teal Rd,,40.3951518162738,-86.8619672798338,,,0,,America/Indiana/Indianapolis,,,0
+2506152,BUS350-25,,Teal Rd & 26th St,,40.3956287657398,-86.8665193032514,,,0,,America/Indiana/Indianapolis,,,0
+2506153,BUS350-27,,18th & Iroquois Trail,,40.3923251623556,-86.8765519833223,,,0,,America/Indiana/Indianapolis,,,0
+2506154,BUS350-26,,18th & Beck Ln (NW Corner),,40.3882745651493,-86.8764580837116,,,0,,America/Indiana/Indianapolis,,,0
+2506155,BUS350-28,,Old US 231 & US-52 (North of ),,40.3908011950984,-86.903751725453,,,0,,America/Indiana/Indianapolis,,,0
+2506156,BUS350-29,,4th & Central (SE Corner),,40.4059208786444,-86.8928696311638,,,0,,America/Indiana/Indianapolis,,,0
+2506157,BUS350-30,,4th & Fairmont (East Side),,40.4087568842501,-86.8928397852223,,,0,,America/Indiana/Indianapolis,,,0
+2506158,BUS350-31,,Bauer Center on 4th (East Side),,40.412802222816,-86.8928988996639,,,0,,America/Indiana/Indianapolis,,,0
+2506159,BUS350-32,,4th & Alabama,,40.4163531321563,-86.8929167389031,,,0,,America/Indiana/Indianapolis,,,0
+2506160,BUS350-33,,4th St & North St,,40.4208919615847,-86.8929432433727,,,0,,America/Indiana/Indianapolis,,,0
+2506161,BUS350-34,,Union St & 6th ,,40.4246417052134,-86.8914278262025,,,0,,America/Indiana/Indianapolis,,,0
+2506162,BUS350-35,,15th St & Vinton,,40.4346702847801,-86.8813458449019,,,0,,America/Indiana/Indianapolis,,,0
+2506163,BUS350-36,,Schuyler St & 16th St (SW Corner),,40.4391711581206,-86.88047795678,,,0,,America/Indiana/Indianapolis,,,0
+2506164,BUS350-37,,Schuyler Ave & 18th,,40.4406604414386,-86.8769996615742,,,0,,America/Indiana/Indianapolis,,,0
+2506165,BUS350-38,,Schuyler Ave & 20th St,,40.4416977277931,-86.8745914924157,,,0,,America/Indiana/Indianapolis,,,0
+2506166,BUS350-39,,Schuyler Ave & 23rd,,40.4429879307712,-86.8709740684763,,,0,,America/Indiana/Indianapolis,,,0
+2506229,BUS002,,3rd St & Ferry St (NW Corner): BUS002,,40.4200791249994,-86.8943537806602,,,0,,America/Indiana/Indianapolis,,,0
+2506568,BUS694SW,,South St & 26th St (SW Corner),,40.4173153330396,-86.8676468675049,,,0,,America/Indiana/Indianapolis,,,0
+2506569,BUS221W,,Sagamore Pkwy S @ Alorica (West Side),,40.4138708466988,-86.8581047184285,,,0,,America/Indiana/Indianapolis,,,0
+2506570,BUS219W,,Sagamore Pkwy S & National Drive (NW Corner),,40.4064900701832,-86.857836790724,,,0,,America/Indiana/Indianapolis,,,0
+2506571,BUS219E,,Sagamore Pkwy S & National Drive (SE Corner),,40.4062454445038,-86.8574751154603,,,0,,America/Indiana/Indianapolis,,,0
+2506572,BUS221E,,Sagamore Pkwy S @ Alorica (East Side),,40.4152890998256,-86.8578016350136,,,0,,America/Indiana/Indianapolis,,,0
+2506573,BUS695SW,,South St & 29th St (SW Corner),,40.4174069893471,-86.8643112117408,,,0,,America/Indiana/Indianapolis,,,0
+2506574,BUS696SW,,South St & Earl Ave (SW Corner),,40.4174136835768,-86.8609326691054,,,0,,America/Indiana/Indianapolis,,,0
+2506575,BUS699SW,,South St & Sagamore Pkwy S (SW Corner),,40.4174435944639,-86.8583274237241,,,0,,America/Indiana/Indianapolis,,,0
+2506576,BUS696NE,,South St @ RRX,,40.4176078011489,-86.859826049783,,,0,,America/Indiana/Indianapolis,,,0
+2506577,BUS695NE,,South St & 29th St (NE Corner),,40.4176111122291,-86.8640155148873,,,0,,America/Indiana/Indianapolis,,,0
+2506578,BUS694NE,,South St & 26th St (NE Corner),,40.417561692646,-86.8672263400836,,,0,,America/Indiana/Indianapolis,,,0
+2506585,BUS185,,2nd St & Columbia (SE Corner),,40.4180402280674,-86.8953164075285,,,0,,America/Indiana/Indianapolis,,,0
+2506586,BUSLSS,,Lafayette SunnySide School,,40.4218209051003,-86.8682625607612,,,0,,America/Indiana/Indianapolis,,,0
+2506587,BUS668,,Kirby Riskk Manufacturing Center,,40.4062786058129,-86.8504207855394,,,0,,America/Indiana/Indianapolis,,,0
+2517400,BUS648,,Alabama St & 3rd Street (West of),,40.416393482506,-86.8948942493131,,,0,,America/Indiana/Indianapolis,,,0
+2517660,BUS389,,Beering Hall on University St,,40.4257775850626,-86.9164561558052,,,0,,America/Indiana/Indianapolis,,,1
+2517661,BUS387,,Beering Hall on University,,40.4263073461087,-86.9167463709515,,,0,,America/Indiana/Indianapolis,,,1
+2517662,BUS563,,PUSH at University St & 5th St,,40.4294185523256,-86.916578772903,,,0,,America/Indiana/Indianapolis,,,0
+2517663,BUS569,,PUSH at University St & 5th St,,40.4291091828978,-86.9167572544671,,,0,,America/Indiana/Indianapolis,,,1
+2517664,TEMP899,,Morgan & Jischke Dr (SE Corner),,40.4238395024883,-86.9215975064305,,,0,,America/Indiana/Indianapolis,,,0
+2555967,,,Sagamore Pwky W & Win Hentschel Blvd,,40.4646796712363,-86.9362374745618,,,0,,America/Indiana/Indianapolis,,,0
+2555968,,,Sagamore Pwky W & Morehouse Rd,,40.4668661464386,-86.9390964674958,,,0,,America/Indiana/Indianapolis,,,0
+2555969,,,Barrington West on Sagamore Pwky W,,40.4676862906974,-86.9488071110844,,,0,,America/Indiana/Indianapolis,,,0
+2555970,TEMP,,Tilbury Dr & US 231 S,,40.4657333074504,-86.9536145266063,,,0,,America/Indiana/Indianapolis,,,0
+2555971,BUS171,,Meijer Store West,,40.4694105525294,-86.9574389710928,,,0,,America/Indiana/Indianapolis,,,0
+2555972,,,Klondike Rd & Cumberland Ave (East of),,40.4528654987309,-86.9613767278915,,,0,,America/Indiana/Indianapolis,,,0
+2555977,,,University Place (at front door),,40.4472168375958,-86.9369504602705,,,0,,America/Indiana/Indianapolis,,,0
+2555978,,,Lawson Computer Science Building,,40.4273485269121,-86.9171055395018,,,0,,America/Indiana/Indianapolis,,,0

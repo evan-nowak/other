@@ -1,0 +1,25 @@
+agency_id,route_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color,route_sort_order,min_headway_minutes,eligibility_restricted
+816,10253,1A,Market Square,"1A Market Square, operates Monday - Sunday",3,https://www.gocitybus.com/route/1a-market-square,1E90FF,000000,0,,0
+816,10254,1B,Salisbury,"1B Salisbury, operates Monday - Sunday",3,https://www.gocitybus.com/route/1b-salisbury,4169E1,000000,1,30,0
+816,10260,7,South Street,"7 South Street, operates Monday - Sunday",3,https://www.gocitybus.com/route/7-south-street,FFA500,000000,10,,0
+816,10263,9,Park East,9 Park East - Operates Monday - Friday ,3,https://www.gocitybus.com/route/9-park-east,6A5ACD,000000,11,,0
+816,10262,10,Northwestern,"10 Northwestern, operates Monday - Saturday",3,https://www.gocitybus.com/route/10-northwestern,FFA500,000000,12,,0
+816,10243,23,The Connector,"23 The Connector Between Lafayette and Purdue/West Lafayette, operates Monday-Friday, and Saturday During the Purdue Fall and Spring Semesters",3,https://www.gocitybus.com/route/the-connector-free-for-all,32CD32,000000,13,40,0
+816,10248,13,Silver Loop,"13 Silver Loop, operates Monday - Friday only during Purdue's Fall & Spring Semesters, on days when classes are held",3,https://www.gocitybus.com/route/13-silver-loop,696969,000000,14,,0
+816,10250,14,Black Loop,"14 Black Loop, operates Monday - Sunday Nights when Purdue is in session",3,https://www.gocitybus.com/route/14-black-loop,000000,FFFFFF,15,30,0
+816,10239,15,Tower Acres,"15 Tower Acres, operates Monday - Friday only during Purdue's Fall & Spring Semesters on days when classes are held",3,https://www.gocitybus.com/route/15-tower-acres,FFA500,000000,16,,0
+816,10257,17,Ross Ade,"17 Ross Ade, operates Monday - Friday during Purdue's Fall & Spring Semesters on days when classes are held",3,https://www.gocitybus.com/route/17-ross-ade,87CEEB,000000,17,,0
+816,10240,27,Outer Loop,"27 Outer Loop, Operates Monday - Friday when Purdue is in Session",3,https://www.gocitybus.com/route/27-outer-loop,08f708,000000,18,,0
+816,10249,28,Gold Loop,"28 Gold Loop, operates Monday - Friday only during Purdue's Fall & Spring Semesters on days when classes are held ",3,https://www.gocitybus.com/route/28-gold-loop,DAA520,000000,19,30,0
+816,10252,2A,Schuyler Ave,"2A Schuyler Ave, operates Monday - Saturday",3,https://www.gocitybus.com/route/2a-schuyler,FF1493,000000,2,,0
+816,10256,21A,The Avenue,"21A The Avenue, operates Monday - Saturday, with limited service during Purdue's summer break.",3,https://www.gocitybus.com/route/21-the-avenue-north-and-south,ADFF2F,000000,20,40,0
+816,10244,24,Copper Beech Klondike,24 Copper Beech Klondike,3,https://www.gocitybus.com/route/24-copper-beech-klondike,F4A460,000000,21,30,0
+816,10247,35,Lindberg Express,"35 Lindberg Express, operates Monday - Saturday during Purdue's Fall & Spring Semesters on days when classes are held",3,https://www.gocitybus.com/route/35-lindberg-express,696969,000000,22,,0
+816,12408,350,Industrial Express,"350 Industrial Express, Operates Monday - Saturday with service to Wabash National South Campus",3,https://www.gocitybus.com/route/350-industrial-express,b71313,ffffff,23,,0
+816,10258,2B,Union St,"2B Union St, operates Monday - Saturday",3,https://www.gocitybus.com/route/2b-union,C71585,000000,3,,0
+816,10255,3,Lafayette Square,"3 Lafayette Square, operates Monday - Sunday",3,https://www.gocitybus.com/route/3-lafayette-square,800080,FFFFFF,4,,0
+816,10241,4A,Tippecanoe Mall,"4A Tippecanoe Mall, operates Monday - Sunday",3,https://www.gocitybus.com/route/4a-tippecanoe-mall,008000,000000,5,,0
+816,10251,4B,Purdue West,"4B Purdue West, operates Monday - Sunday",3,https://www.gocitybus.com/route/4b-purdue-west,228B22,000000,6,60,0
+816,10245,5,Happy Hollow,"5 Happy Hollow, operates Monday - Friday",3,https://www.gocitybus.com/route/5-happy-hollow,FF4500,000000,7,,0
+816,10238,6A,Fourth St,"6A Fourth St, operates Monday - Sunday",3,https://www.gocitybus.com/route/6a-south-4th-street-to-walmart-south,FF00FF,000000,8,,0
+816,10242,6B,South 9th St,"6B South 9th St, operates Monday - Saturday",3,https://www.gocitybus.com/route/6b-south-9th-street,FF00FF,000000,9,,0

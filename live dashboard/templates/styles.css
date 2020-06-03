@@ -1,0 +1,211 @@
+/*
+ ..|'''.|  '||''''|  '|.   '|' '||''''|  '||''|.       |     '||'
+.|'     '   ||  .     |'|   |   ||  .     ||   ||     |||     ||
+||    ....  ||''|     | '|. |   ||''|     ||''|'     |  ||    ||
+'|.    ||   ||        |   |||   ||        ||   |.   .''''|.   ||
+ ''|...'|  .||.....| .|.   '|  .||.....| .||.  '|' .|.  .||. .||.....|
+*/
+
+html, body {
+  height: 100vh;
+  width: 100vw;
+  margin: 0;
+  padding: 0;
+  font-family: "Raleway", san-serif;
+  background: #262626;  /* #e6e6e6; light gray*/
+}
+
+body, .figures, .left, .right, .plot-holder {
+  overflow: hidden!important;
+  margin: 0;
+  padding: 0;
+}
+
+h1, h2, h3 {
+  font-family: "Montserrat", san-serif;
+  font-weight: 600;
+  color: #000;
+}
+
+/*
+'||''''| '||'  ..|'''.|  '||'  '|' '||''|.   '||''''|   .|'''.|
+ ||  .    ||  .|'     '   ||    |   ||   ||   ||  .     ||..  '
+ ||''|    ||  ||    ....  ||    |   ||''|'    ||''|      ''|||.
+ ||       ||  '|.    ||   ||    |   ||   |.   ||       .     '||
+.||.     .||.  ''|...'|    '|..'   .||.  '|' .||.....| |'....|'
+*/
+
+}
+
+#top {
+  position: absolute;
+  top: 5vh;
+  height: calc(25vh + 40px);
+  width: 100vw;
+}
+
+#map {
+  position: absolute;
+  top: calc(5vh + 40px);
+  height: calc(92vh - 40px);
+  width: 100vw;
+}
+
+.right {
+  max-height: 92vh;
+  min-height: 92vh;
+  padding-right: 20px!important;
+  overflow-y: scroll!important;
+  max-width: calc(50vw - 10px);
+  min-width: calc(50vw - 10px);
+  position: absolute;
+  left: calc(50vw - 10px);
+  top: 5vh;
+  background: #262626;
+  display: None;
+}
+
+/*
+'||'  '||' '||''''|      |     '||''|.   '||''''|  '||''|.
+ ||    ||   ||  .       |||     ||   ||   ||  .     ||   ||
+ ||''''||   ||''|      |  ||    ||    ||  ||''|     ||''|'
+ ||    ||   ||        .''''|.   ||    ||  ||        ||   |.
+.||.  .||. .||.....| .|.  .||. .||...|'  .||.....| .||.  '|'
+*/
+
+.bar {
+  color: #fff!important;
+  text-align: center;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0;
+}
+
+.bar-item {
+  line-height: 0;
+  height: 100%;
+  width: 3vw;
+  margin: 0 1.5vw;
+  overflow-x: visible;
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.bar-left {
+  justify-content: flex-start;
+}
+
+.bar-right {
+  justify-content: flex-end;
+}
+
+.header {
+  background: #2360a5;
+  height: 5vh;
+  font-size: 2vh;
+  border-bottom: 1px solid black!important;
+}
+
+/*
+'||''''|  ..|''||    ..|''||   |''||''| '||''''|  '||''|.
+ ||  .   .|'    ||  .|'    ||     ||     ||  .     ||   ||
+ ||''|   ||      || ||      ||    ||     ||''|     ||''|'
+ ||      '|.     || '|.     ||    ||     ||        ||   |.
+.||.      ''|...|'   ''|...|'    .||.   .||.....| .||.  '|'
+*/
+
+.footer {
+  position: absolute;
+  top: 97vh;
+  left: 0;
+  width: 100vw;
+  height: 3vh;
+  background: #616161;
+  font-size: 1.25vh;
+  border-top: 1px solid black!important;
+}
+
+.SSE, .PANYNJ {
+  text-decoration: none;
+  color: #fff;
+  padding: 0 .25vw;
+}
+
+.SSE:hover {
+    color: #6EC829;
+}
+
+.PANYNJ:hover {
+    color: #4287d7;
+}
+
+/*
+.___..__..__..   .___.._..__
+  |  |  ||  ||     |   | [__)
+  |  |__||__||___  |  _|_|
+*/
+
+.tooltip {
+  position: relative;
+  display: inline-block;
+}
+
+.tooltip .tooltiptext {
+  visibility: hidden;
+  width: 9vw;
+  background-color: #f1f1f1;
+  color: #000;
+  text-align: center;
+  border-radius: 1vh;
+  padding: 1vh 0;
+  position: absolute;
+  z-index: 1;
+  bottom: 0;
+  margin-bottom: 1vh;
+  margin-left: -4.5vw;
+  opacity: 0;
+  transition: .3s;
+  font-size: 1.25vh;
+  border: 1px solid #000;
+  display: inline-block;
+}
+
+.tooltip:hover .tooltiptext {
+  visibility: visible;
+  opacity: 1;
+}
+
+/*
+'||'      '||''''|   ..|'''.|  '||''''|  '|.   '|' '||''|.
+ ||        ||  .    .|'     '   ||  .     |'|   |   ||   ||
+ ||        ||''|    ||    ....  ||''|     | '|. |   ||    ||
+ ||        ||       '|.    ||   ||        |   |||   ||    ||
+.||.....| .||.....|  ''|...'|  .||.....| .|.   '|  .||...|'
+*/
+
+.legend {
+  padding: 0;
+  margin: 0;
+}
+
+.hidden {
+  display: none;
+  position: absolute;
+  top: 5vh;
+  left: 0vw;
+  z-index: 1;
+}
+
+.legend:hover .hidden {
+  display: block;
+  background: #e6e6e6;
+  border: 1px solid #000;
+}
+
+.hidden img {
+  margin-top: 2vh;
+  height: 50vh;
+}
