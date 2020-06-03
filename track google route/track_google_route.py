@@ -192,7 +192,7 @@ def track_google_route(key, fn, sheet, all_times):
 
         df = df[cols]
 
-        fn_out = 'C:/Users/enowak/OneDrive - Sam Schwartz Engineering/projects/brooklyn_bus_network/google_speeds/output/' + d + '.xlsx'
+        fn_out = 'output/' + d + '.xlsx'
 
         fn_out = fn_out.replace('&', '')
 
@@ -213,9 +213,9 @@ if __name__ == '__main__':
         for t in times:
             all_times.append(t + timedelta(days=i))
 
-    key = 'AIzaSyCI_hjpO2lBFlubAikgtgxrEGy1DqOWRYo'
+    key = 'key'
 
-    fn = 'C:/Users/enowak/OneDrive - Sam Schwartz Engineering/projects/brooklyn_bus_network/google_speeds/BBNR - Google API inputs.xlsx'
+    fn = 'inputs.xlsx'
     sheet = 'new_data'
 
     track_google_route(key, fn, sheet, all_times)
